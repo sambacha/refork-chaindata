@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "format": "npx prettier --config .prettierrc.json --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/refork-chaindata.git"
   },
   "keywords": [],
   "author": "sam bacha",
-  "license": "ISC",
-  "devDependencies": {
-    "prettier": "^2.4.1"
-  }
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sambacha/refork-chaindata/issues"
+  },
+  "homepage": "https://github.com/sambacha/refork-chaindata#readme"
 }
