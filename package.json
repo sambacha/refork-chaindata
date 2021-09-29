@@ -1,0 +1,15 @@
+{
+  "name": "reorg-forks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx prettier --config .prettierrc.json --write ."
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}

@@ -1,0 +1,1210 @@
+Reorg 0 at 2020-01-23T18:01:32 db ID: 85779
+Depth 14
+Length 13
+Est attacker chain duration 2:13:28
+Est attacker hashrate 2.53 MH/s
+Nicehash hashrate 3.41 MH/s
+Nicehash price 0.86 BTC/MH/s/Day
+Est Nicehash cost 0.2013653 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-01-23T15:47:19   2020-01-23T15:48:04      000000000d55ab67a02140afd97e261363c0a641c28baa2bb493e89230ab6a54  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V            0            2020-01-23T15:47:19  2020-01-23T15:48:04  000000000d55ab67a02140afd97e261363c0a641c28baa2bb493e89230ab6a54  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V            0
+        1  *    2020-01-23T16:07:37   2020-01-23T16:08:02      0000000262490f677cdd115081202af09fa80b73c09ad7b1bef9ba06d5c6bea8  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           30.3893  *    2020-01-23T15:59:59  2020-01-23T18:01:32  00000001d8e7ca6909fbd4fb8e762318d8be02ae3974c1bb6a6a30670b1da11d  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           30.3893
+        2       2020-01-23T16:15:22   2020-01-23T16:16:05      00000001b2bf148d66b5114646c875103336a5012ef89ed12053fcc79d61ee6a  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           31.3597       2020-01-23T16:02:49  2020-01-23T18:01:32  000000025d46cd75fef8a5ad214488c44566f22295426c8fa859e81acb61c45b  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           31.3814
+        3       2020-01-23T16:26:10   2020-01-23T16:26:53      0000000210603921a224e9648d5eb1f18a63865d9b885b5df78b4cd355656634  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           31.9387       2020-01-23T16:03:02  2020-01-23T18:01:32  00000000e56f88bea626b6c2b7d46501aa0f86f981bde62bc9505244bb15c233  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           31.9778
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        4       2020-01-23T16:44:54   2020-01-23T16:45:53      00000002f739ca79895aa2d67a852d84db4dab43f6f85e14460499f81ed2a6f7  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.3495       2020-01-23T16:10:45  2020-01-23T18:01:32  000000015cf6484d36c663c4bb8375ceed0563743878b1f2bc20ddfae16fa35a  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.414
+        5       2020-01-23T16:51:53   2020-01-23T16:52:49      0000000199db9b60b2be0984fc3260b54684aac148623a87a521869887f84274  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           32.6591       2020-01-23T16:18:49  2020-01-23T18:01:32  000000020ad4613160c6f59f13f62c1c2c8b9684a0d62afe1e8636438782d9ef  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.7513
+        6       2020-01-23T17:01:59   2020-01-23T17:02:16      00000001670ea78b1b9175b1575745d5bc6dd97aa8ed4ce067aa2e7ea76dc70b  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.9164       2020-01-23T16:23:55  2020-01-23T18:01:32  00000000d1ff05460e2dcb6521e3a391ccb9cab2fb0f0b525803a807e716ab12  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.0267
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        7       2020-01-23T17:04:06   2020-01-23T17:04:20      00000002b0b26845cf15a7c2739771a273b107a96a95e38efb35d1b4d656a40a  GRmPozYnFRoVr2YYEVSCHDEZxrSZq5QTbn           33.1346       2020-01-23T16:33:31  2020-01-23T18:01:32  0000000004709a5621811d6ffb04db59258e41d341a2672fd59e8faa35738e9d  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.2625
+        8       2020-01-23T17:18:53   2020-01-23T17:19:22      00000000b08033fdf08483cfdc6fdd20591f8bf943a8588f9d4f9f50fb0c78a8  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.3297       2020-01-23T16:33:42  2020-01-23T18:01:32  0000000003223e054e24f80ef4ab3b1ce2eb1fba9af14120e8ea0a6b93ebf4a9  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.4655
+        9       2020-01-23T17:24:51   2020-01-23T17:25:45      00000001bbe93572214e8b8c01c21be7913cf4316ff456e8d00de2133346348d  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           33.4983       2020-01-23T16:38:08  2020-01-23T18:01:32  000000011cf9c239aa8c7ac689aff9f162678424ef9b381ded476fb7927d6056  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.6513
+       10       2020-01-23T17:34:53   2020-01-23T17:34:58      0000000241833509c3a9eab7880943282f97876d78852a685a670ea833f1bc15  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           33.6516       2020-01-23T16:38:08  2020-01-23T18:01:32  00000000194592f0bf8fb514f844d038b5f98171ab0efe6325e1282596d33b87  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.82
+       11       2020-01-23T17:37:42   2020-01-23T17:37:55      0000000018ce0e489ba650b0d1a7ccba3873465977741bca1292b32259e2d46c  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           33.7902       2020-01-23T17:01:55  2020-01-23T18:01:32  0000000037d8a3c44c51b01fd4821976f62f1283e0472726c683dedc1434f391  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.9785
+       12       2020-01-23T17:43:25   2020-01-23T17:44:16      00000000f21f6744f9797977c2c9e0aa89ed1dd6272e8b86d1432d0e3fb684f7  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           33.9202       2020-01-23T17:06:48  2020-01-23T18:01:32  00000000661482929224d0bd25e56813e11a3fd4ea0c66c9850f1842ae964cf5  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           34.1123
+       13       2020-01-23T17:46:05   2020-01-23T17:46:35      00000000fc619c0ed5f3294d0881893718237c40af302fa0e24bdb2de495af7f  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           34.0417       2020-01-23T17:13:10  2020-01-23T18:01:32  00000001dc46d1d412824790d1b14caab571914d2dca00c71f6e7c21bee5b787  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           34.2377
+       14       2020-01-23T17:47:30   2020-01-23T17:48:22      00000001c91e0911b9c8d408b276af2fa94505ddf2011af56ea1d3778e987ae8  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           34.1573
+
+	Double-spent Transactions
+	---
+
+	Original Transaction 3a17157994502a749a1827883a670d822f8ee95dae94064631770faeec1e8443 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      2f5e7617357f9d706409772bfbeca997945d8bb976e0726d8f3c18f496e91029;1  GWRuw8B6ybo41Ht7aMY1LfhLHR8WdjCR5d         2694071
+	      1  *      f054fc98933861e2a0e45af148a78766cbde896e2d980cb0ed5dfacc0f2ae4a7;0  GgmzUSgXrXpDxiY34bG6SxaDVi2rQ1zU8Q    190000000000
+
+		Replacement Transaction 6e05e8253b2ce7f1acf6f0684898e13141c0e9b893e1a5e44d215d8ebe4d28b4 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      2f5e7617357f9d706409772bfbeca997945d8bb976e0726d8f3c18f496e91029;1  GWRuw8B6ybo41Ht7aMY1LfhLHR8WdjCR5d         2697441
+		      1  *      f054fc98933861e2a0e45af148a78766cbde896e2d980cb0ed5dfacc0f2ae4a7;0  GNH5cUEg5LZZP5HfLgaLvTE9ApKAf76aBf    190000000000
+
+
+Reorg 1 at 2020-01-23T20:06:16 db ID: 85820
+Depth 4
+Length 5
+Est attacker chain duration 1:24:15
+Est attacker hashrate 1.44 MH/s
+Nicehash hashrate 1.59 MH/s
+Nicehash price 0.74 BTC/MH/s/Day
+Est Nicehash cost 0.06209329 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-01-23T18:41:18   2020-01-23T18:42:01      000000007b15f4077e55d24964afc97f6a1329123aace8341cb2199aa2184dd2  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0            2020-01-23T18:41:18  2020-01-23T18:42:01  000000007b15f4077e55d24964afc97f6a1329123aace8341cb2199aa2184dd2  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0
+        1  *    2020-01-23T18:57:37   2020-01-23T18:58:05      00000001cb3f96cf53cc0bc24cc8e3783cc2ee9d85b90c0f28a1e56f185cf2c0  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           30.6182  *    2020-01-23T19:15:03  2020-01-23T20:06:16  0000000272bab2a090d1d8a4c11d63986df97db186643026cc8f69b1e9985463  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           30.6182
+        2       2020-01-23T19:09:05   2020-01-23T19:09:21      00000002a07327ed2162b413bcd76556938e5881eef58c32e6b512a7970472b5  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           31.5967       2020-01-23T19:38:44  2020-01-23T20:06:16  0000000006834f231232dc7a9b4fc710b7876619d69ba7c354f3995fa4711a7a  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           31.5428
+        3       2020-01-23T19:39:21   2020-01-23T19:41:04      00000000d80c112cb6ce0ef710f4bde16312fcf9501cec032e81adb5b7bb6046  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.1712       2020-01-23T19:50:37  2020-01-23T20:06:16  0000000233b48d0e4415155b5ce7e4ffe67795e22d6eb874bc0ee3a36d6f25b9  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.0758
+        4       2020-01-23T19:59:04   2020-01-23T19:59:57      0000000152d56d1e0e10a140ba95f65f47655b4758b48c3d72e72e44e2dea334  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.5503       2020-01-23T20:02:38  2020-01-23T20:06:16  0000000117d62ca24b594ad154adb548c180d6e8f9f2c95a7da1b040e427f2ad  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.4616
+        5                                                                                                                                                                                   2020-01-23T20:04:36  2020-01-23T20:06:16  000000002c521b61e99817fcb3d9b1d2dd1ed0018c77f5793dd4d02fec0983cd  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.7633
+
+	Double-spent Transactions
+	---
+
+	Original Transaction 83eef3fa0153a30d723cdcfd84d3422f0aa2091832fd98ef91401a01ea04fea7 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      bbed27eae3e2abebcc3b3b04f81ca1a34bf1a60bc0d8a65d802ffebb0b587a13;0  GcAwLLeTU3tSbbyntZmKaSuZLpgx6P3Tkm    379700000000
+	      1  *      43293b12112cd2619e2a9a841f54e31ee3ae04350a0d9ff2a349a1cdcc9c2ead;0  GWUr4tVghuzLJ8t2ix4oHowuVKdDndSYjw        65221680
+
+		Replacement Transaction 9ef035ba66ab556311519e6551f7f7a5c0dc83e7aaa9b6d479b0845cfd7be324 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      bbed27eae3e2abebcc3b3b04f81ca1a34bf1a60bc0d8a65d802ffebb0b587a13;0  GWUr4tVghuzLJ8t2ix4oHowuVKdDndSYjw        65247773
+		      1  *      43293b12112cd2619e2a9a841f54e31ee3ae04350a0d9ff2a349a1cdcc9c2ead;0  Gh632GuF51MCpRoh3RhRZUEkNiDnnzzUnZ    379700000000
+
+
+Reorg 2 at 2020-01-24T00:24:08 db ID: 85919
+Depth 15
+Length 16
+Est attacker chain duration 4:08:52
+Est attacker hashrate 1.57 MH/s
+Nicehash hashrate 3.09 MH/s
+Nicehash price 0.8 BTC/MH/s/Day
+Est Nicehash cost 0.21731648 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-01-23T20:15:00   2020-01-23T20:15:16      00000001330f144ba71baf99d10535ffeabe5ca661082a31457eb1f6d2564e95  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0            2020-01-23T20:15:00  2020-01-23T20:15:16  00000001330f144ba71baf99d10535ffeabe5ca661082a31457eb1f6d2564e95  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0
+        1  *    2020-01-23T20:31:16   2020-01-23T20:31:27      00000000753b47ae2d57ecd58b74253888d2209074ca0d744a720f0840ef1f09  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           30.7297  *    2020-01-23T22:07:08  2020-01-24T00:24:08  0000000057da043022af5fa5e0567f3bd9e95f608801cb85af40920cf5ff2f30  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           30.7297
+        2       2020-01-23T20:33:16   2020-01-23T20:33:22      000000012311569ae2f71c6cd993ac9ab6957474b154374252285be0941b09c8  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           31.7066       2020-01-23T22:10:07  2020-01-24T00:24:08  00000002d72fe4421fc2235df3c940d8e0d9b1e3b0370b29ca68cab50489a230  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           31.5755
+        3       2020-01-23T20:46:54   2020-01-23T20:46:58      0000000160b7b34be01bf55642c9f965628843a82f5ea99bc8d0ef3d48120a33  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           32.3026       2020-01-23T22:21:37  2020-01-24T00:24:08  00000000473ae58b2bd259ef6c9307cc138a30ed43cebd144e1bb63b7ef5d9ab  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.1181
+        4       2020-01-23T21:28:59   2020-01-23T21:29:34      000000009311bafae29278f54ae8bb5556844cf135af77a2fc3a1716099cbbb8  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.7163       2020-01-23T22:24:11  2020-01-24T00:24:08  000000029a192e84c2bc4ef99af6571d3e7671fbe08e29976d0b88da6ab67244  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.5093
+        5       2020-01-23T21:29:33   2020-01-23T21:29:53      00000000097cb7f5db14774d617e337c5cc39e059428134dc9ad17f71c350482  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.9974       2020-01-23T22:57:01  2020-01-24T00:24:08  0000000123c9d5cb621506bb2d2c169ee4d84ae492585d10b4eeb3bfbebd3615  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           32.8254
+        6       2020-01-23T21:52:48   2020-01-23T21:52:53      000000004783bc540e5ccb607994ed9783c40485c71b0ce132bdad205dc5a55b  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           33.2416       2020-01-23T23:22:13  2020-01-24T00:24:08  00000000ff7a41256842430552f68047439f84cb5ce1de80d4109e7ff80bbc23  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.0635
+        7       2020-01-23T21:54:53   2020-01-23T21:55:35      0000000269b005f3d4867ff25a81dd97ff90b4a38bd3b3e0311a4c5ddb3e8593  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.4395       2020-01-23T23:27:04  2020-01-24T00:24:08  00000001fc9e5b2a1cc5b6f125590b07994e8c875336fe86c70715d00abbc8f6  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.257
+        8       2020-01-23T22:59:36   2020-01-23T23:00:09      000000018e655d5796bfed0757b977e1ba5194fb6cc95afae6089c3ae6ff7bf5  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.6192       2020-01-23T23:28:05  2020-01-24T00:24:08  00000002c108f2a612c07081f5530a4f445a5fb1f1af09ea7cc6aba923afa6de  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.4307
+        9       2020-01-23T23:05:38   2020-01-23T23:06:21      000000017c8c8ed0c1ef092d4537ea7f380e5ddaea031b3c89ccfb2932bab74f  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           33.7518       2020-01-23T23:29:24  2020-01-24T00:24:08  000000006e8630b0e8c9d99a137d31e5be3ca364c77d57a743e3b6ad02841793  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.5907
+       10       2020-01-23T23:10:56   2020-01-23T23:11:02      0000000217ad5d5f66d94b149e751c9ec1acbdeb665fa818ea8ca868885b79d0  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           33.8749       2020-01-23T23:35:12  2020-01-24T00:24:08  00000001dd78b414ebd1a10936c38090dfd99579499054ca48c070e5b4380236  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.7395
+       11       2020-01-23T23:14:42   2020-01-23T23:15:06      00000003351eb86fbc7ef4eb87be1d0b7a9f4412646435dd1b8800f341656cb8  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           33.9901       2020-01-23T23:37:25  2020-01-24T00:24:08  000000002dc6004b748934502ef566df3a8c07354ea51704add5d708d7228f27  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           33.8766
+       12       2020-01-23T23:18:46   2020-01-23T23:19:29      00000000a048a0c6a167664c5a5842c979a9aba06a8f06a6fedbaa8a5a542786  GUbeSrProjsb5w5ncWBuLNdHh5SFVwbK8V           34.0992       2020-01-23T23:37:41  2020-01-24T00:24:08  000000026d182b2892f62f01eeefeb106be8a2514cdacb5b12c87fd490faa78b  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           34.0057
+       13       2020-01-23T23:24:03   2020-01-23T23:24:37      000000007305811d5e7911320dddab3334193b7f277142b180417d15a3636462  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           34.2029       2020-01-23T23:38:38  2020-01-24T00:24:08  00000001138127a6fc8adfce3ff6ff9147947717c6762950e7583bc21f5f465c  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           34.1291
+       14       2020-01-23T23:24:35   2020-01-23T23:25:25      000000016f892477f33f648586e6dd78f55374a832c35d428783c7184e7167a9  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           34.3013       2020-01-23T23:56:49  2020-01-24T00:24:08  0000000283421f7c520f756c7b75f8a5c8c99345624692fb12e89a5b00606b72  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           34.2472
+       15       2020-01-23T23:31:24   2020-01-23T23:33:28      00000001a0c4e2327594b69cdf160a21d2400f79d1d20e2fc27a93a1bfd78166  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           34.3969       2020-01-24T00:18:36  2020-01-24T00:24:08  00000001a60002bd73032557e426e3fc9ed2f7f6411993ca773cb2c9f0cfb7c8  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           34.3526
+       16                                                                                                                                                                                   2020-01-24T00:22:34  2020-01-24T00:24:08  00000001b0bc4f09d6bc0b5bfd28b2ffa205135a9c2ccb69b1fad7623fe62023  GWrW5dTZf5XwGWoJuqRKdzkzZFkwtWSqaP           34.4462
+
+	Double-spent Transactions
+	---
+
+	Original Transaction 481d608591f4d6a7013ac1b879c2caf1e2c0a2bb30b5346b2c876deb43873b2b 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      47213d5c468cda44dd944b6934f23ea4d52ddc2bdd352468af11469781a326d4;0  Gg4YDMrMuqit6eJAYKaBxmK17zPFnpLt5w    194769972271
+	      1                                                                             GfRdNzHJan8sfW9wxozAYhRPL9fFLD9A9m    185000000000
+
+		Replacement Transaction a0dc721fff0948732679638f4b4bb713686786826971c3f9a30eb15f5694a0ea 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      be19f6335b8ee4134c6f2148c6efbdb10c5c97f626f002de97ea375f6679db65;2  GPTH48Z3diz4zwBGchXmzW3kDnmHVxyX2V    517600000000
+		      1  *      47213d5c468cda44dd944b6934f23ea4d52ddc2bdd352468af11469781a326d4;0  Gg4YDMrMuqit6eJAYKaBxmK17zPFnpLt5w        21199613
+
+	Original Transaction 37c8a8d59f61879cc0da9fa197ed72dbc967c796800d4015cafd47c7be467201 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0         15424a2d8d43cd1b5a790d141ba9a5850e00c7560c7ced86da7a50d4bab90118;0  GKcfk3MFWSYzPHHmN3AAETjp1Pcj41Gz8q       621098653
+	      1  *      be19f6335b8ee4134c6f2148c6efbdb10c5c97f626f002de97ea375f6679db65;2  GfWUNAdW3aEXfQWshApFLf2ZNtMV9MC6VQ    147000000000
+
+		Replacement Transaction a0dc721fff0948732679638f4b4bb713686786826971c3f9a30eb15f5694a0ea 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      be19f6335b8ee4134c6f2148c6efbdb10c5c97f626f002de97ea375f6679db65;2  GPTH48Z3diz4zwBGchXmzW3kDnmHVxyX2V    517600000000
+		      1  *      47213d5c468cda44dd944b6934f23ea4d52ddc2bdd352468af11469781a326d4;0  Gg4YDMrMuqit6eJAYKaBxmK17zPFnpLt5w        21199613
+
+
+Reorg 3 at 2020-01-31T09:49:40 db ID: 87781
+Depth 3
+Length 3
+Est attacker chain duration 1:44:33
+Est attacker hashrate 0.67 MH/s
+Nicehash hashrate 1.92 MH/s
+Nicehash price 0.88 BTC/MH/s/Day
+Est Nicehash cost 0.04300389 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-01-31T08:04:38   2020-01-31T08:05:07      00000000cd8151da50553586ab3081c77652c3f6dc3dba395194b521b1a25ace  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0            2020-01-31T08:04:38  2020-01-31T08:05:07  00000000cd8151da50553586ab3081c77652c3f6dc3dba395194b521b1a25ace  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0
+        1       2020-01-31T08:33:07   2020-01-31T08:33:42      0000000255106582a6c53271e5bbeb2d44a19c5b2356a86ebbac7d69e4104038  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           30.4951       2020-01-31T08:43:35  2020-01-31T09:49:40  00000000a212f2e560a7c96febe66084de40c1e4cde91fda6e7dc507d795b732  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           30.4951
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        2       2020-01-31T09:20:27   2020-01-31T09:21:10      0000000098d967e675faff05246609917646b8e98331287a777b8de7491c4ee9  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           31.4438       2020-01-31T08:54:02  2020-01-31T09:49:40  0000000035d211e04be511a3bae19acfe594532d15077c74487a248811461612  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.4174
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        3       2020-01-31T09:47:45   2020-01-31T09:48:03      00000000b82a6fb42327601fff25304c9f7b45f013b30b954e7c2c6fb4862c17  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           31.9515       2020-01-31T09:06:45  2020-01-31T09:49:40  0000000058ccfaa5b84fc91883f578a8f2d8e0b8ec7781f4b1ee8f2e551211d0  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.9739
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+
+
+Reorg 4 at 2020-01-31T16:32:47 db ID: 87913
+Depth 8
+Length 9
+Est attacker chain duration 1:54:12
+Est attacker hashrate 1.64 MH/s
+Nicehash hashrate 1.18 MH/s
+Nicehash price 0.8 BTC/MH/s/Day
+Est Nicehash cost 0.10404223 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-01-31T14:36:57   2020-01-31T14:38:35      000000022edbacdf00ac2d805241f2c129ace5f64ce47d26a0a7f6a2ef940314  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt            0            2020-01-31T14:36:57  2020-01-31T14:38:35  000000022edbacdf00ac2d805241f2c129ace5f64ce47d26a0a7f6a2ef940314  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt            0
+                                                                                                                                 GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7                                                                                                                                     GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        1       2020-01-31T14:46:50   2020-01-31T14:46:56      00000002d040a577a8ecbee0a83d496d781720d68fb04ae14e3a5d1c4cab3a05  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           30.4294       2020-01-31T15:18:29  2020-01-31T16:32:47  000000016bde456bbbb8a06668e486472b15dbe2a46d0b6cc429add5ff9c69e5  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           30.4294
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        2       2020-01-31T14:50:56   2020-01-31T14:51:13      000000018e4fad8a97233b2f859d63b3c37370508a6c36f991e4d6a65194b5e8  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           31.4295       2020-01-31T15:33:02  2020-01-31T16:32:47  00000001263f9b818e250e38b583771a80f913fd9f191b35a03ad6032a636d89  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.3357
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        3       2020-01-31T15:29:14   2020-01-31T15:30:32      0000000241b0f2ec3b943e7f8fd1c028f9a7144b41f7f2c9ee95960a086b7541  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.0275       2020-01-31T15:50:57  2020-01-31T16:32:47  000000028b448f5973934dcd0d473e41e7200f5ccd0beda7eeaefc5268e87cbd  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.8796
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        4       2020-01-31T15:50:32   2020-01-31T15:51:45      000000018670b29504572437cff6d27daf4937c0ef363a518a214198f893cbc2  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP           32.4057       2020-01-31T16:01:50  2020-01-31T16:32:47  00000001d13803d747ce8e8660c6b10b0ce66b289c81614b12e2f75e4e75f777  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           32.2631
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        5       2020-01-31T15:53:45   2020-01-31T15:55:25      000000036be0dd9a77c48eb4815e81e244738a45a3a7058e47b615fcd9e6a424  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP           32.6929       2020-01-31T16:09:33  2020-01-31T16:32:47  00000000adeceb720ef43afe4bdd2eb0cda83eddf15295b09bf90693ee91126b  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           32.5647
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        6       2020-01-31T16:01:49   2020-01-31T16:01:55      0000000121d5cc0c4c5cb58cf0c73ac7cc9000fd9124abbf750527c484e06462  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           32.9383       2020-01-31T16:21:25  2020-01-31T16:32:47  000000012f80df3ca4d7957d3cacb2c2a9957cea94b6d32a2c506d330cc4fad9  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           32.8159
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        7       2020-01-31T16:11:55   2020-01-31T16:12:35      000000008844d01ea03e548661aedacfb862c748c9977001d3cb381c862e13ba  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP           33.1495       2020-01-31T16:26:49  2020-01-31T16:32:47  000000034602dc119396fc263996bec9fda4b42e8d1b2fe1ffaba7d0cebca619  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           33.0283
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        8       2020-01-31T16:13:31   2020-01-31T16:13:51      000000019ddd74269bed8feaf94243cdfd335cd7b46d0b3382be53c1f343384e  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           33.3336       2020-01-31T16:27:46  2020-01-31T16:32:47  00000002724c378551870d9002937ef609e4954bf10c39a87a3c44a469c59187  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           33.2164
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        9                                                                                                                                                                                   2020-01-31T16:30:53  2020-01-31T16:32:47  0000000048592fbe7072880fa95bf502e240b1ca40cb11eb80da0362dbfed7ea  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           33.3886
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+
+
+Reorg 5 at 2020-02-01T08:45:22 db ID: 88138
+Depth 4
+Length 4
+Est attacker chain duration 1:14:08
+Est attacker hashrate 1.26 MH/s
+Nicehash hashrate 1.28 MH/s
+Nicehash price 0.77 BTC/MH/s/Day
+Est Nicehash cost 0.05009885 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-01T07:31:01   2020-02-01T07:31:14      0000000183d4069112074bff0e12fe3adaaa732aff9355fbf799e57e144e4046  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY            0            2020-02-01T07:31:01  2020-02-01T07:31:14  0000000183d4069112074bff0e12fe3adaaa732aff9355fbf799e57e144e4046  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY            0
+        1       2020-02-01T08:01:15   2020-02-01T08:02:57      0000000160331c9037fefe6be94b60788e5bbb0fda4fb8be1127963e29883515  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           30.489        2020-02-01T08:04:10  2020-02-01T08:45:22  00000000a17730e5af597e059d18395949f9a451ebe07a53f0fa9bcfb60db7b4  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           30.489
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        2       2020-02-01T08:39:37   2020-02-01T08:40:14      000000003f398552538182f288c1808260d5fdc4514704770ceb3eb236443c15  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           31.4337       2020-02-01T08:11:48  2020-02-01T08:45:22  00000000613b17acecf7e069e4cc1ac34091e37e5b68f065a7263b480e028fde  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.4263
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        3       2020-02-01T08:42:14   2020-02-01T08:43:01      0000000110352aba1981b50f8573c1b89ff60b58337315180840a8c5d173ddc3  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           31.9542       2020-02-01T08:30:52  2020-02-01T08:45:22  0000000107044781ff4e77021432fb168559ec20406f7b55eb68757493e18857  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.9936
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        4       2020-02-01T08:43:31   2020-02-01T08:43:45      00000001151a99eb0d1ef343731321189caaa14b78f1ebf5c93369d35e04f736  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           32.3441       2020-02-01T08:30:56  2020-02-01T08:45:22  000000009069f242d16853133b0cbab3d0e89bf50de30a5a8f58801e598b7a00  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           32.3881
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+
+
+Reorg 6 at 2020-02-01T09:33:27 db ID: 88150
+Depth 4
+Length 5
+Est attacker chain duration 0:48:05
+Est attacker hashrate 2.36 MH/s
+Nicehash hashrate 1.74 MH/s
+Nicehash price 0.86 BTC/MH/s/Day
+Est Nicehash cost 0.06787932 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-01T08:31:53   2020-02-01T08:45:22      00000001fdcd9f439918e13429a80dd35e67fe8a344d36a02fa2b460485d3af2  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt            0            2020-02-01T08:31:53  2020-02-01T08:45:22  00000001fdcd9f439918e13429a80dd35e67fe8a344d36a02fa2b460485d3af2  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt            0
+                                                                                                                                 GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7                                                                                                                                     GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        1       2020-02-01T08:50:35   2020-02-01T08:51:18      000000028f60637421a0ad3e3c31ba2f5fd11105bc15c6100be738ca4c6cadfb  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           30.4254       2020-02-01T09:06:42  2020-02-01T09:33:27  00000002f6da61cc6accf6a784646e2b1a68fa9c6db6be9f4db02071b1514717  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           30.4254
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        2       2020-02-01T09:13:18   2020-02-01T09:14:06      00000001956cc654f7d5adaa41b1e57241d9e72de84e34d0bbc1cf991b9784c4  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.4013       2020-02-01T09:12:11  2020-02-01T09:33:27  000000006f6c316631ca46b167ac8cae283abad6768becf8ad8cfdce47bf052b  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.3601
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        3       2020-02-01T09:18:41   2020-02-01T09:19:15      0000000091987a0609945a9c978a2512ae692c6b5bffd92de18bd492a4ff1c7e  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           31.9565       2020-02-01T09:18:52  2020-02-01T09:33:27  000000022150671dbb4b4eec5fddcdb595acd540ce4ffb5d1d70d2cb9775b7c3  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           31.9303
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        4       2020-02-01T09:25:16   2020-02-01T09:25:40      000000023fc1c82fd8a17b349b7ad8e5c8222143a9d1a3cbc84f7863611af212  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           32.3624       2020-02-01T09:27:38  2020-02-01T09:33:27  00000000a902363ed5bcf0df7c509c48f1ad958d1a9019ffb1668bffd789d2ed  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           32.3423
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+        5                                                                                                                                                                                   2020-02-01T09:30:27  2020-02-01T09:33:27  00000001c01fbb1869dafc74397cfb43a3b98b124a5065264bc9ce5bd79fd56c  GUmkmEXm9MxJUdpyMAEb8Zbg6u3KVuGmSt           32.6638
+                                                                                                                                                                                                                                                                                                        GXaCThK4gh3DpRt7jkRYkjiJnokjs4Uvs7
+
+
+Reorg 7 at 2020-02-05T06:16:46 db ID: 89520
+Depth 9
+Length 10
+Est attacker chain duration 2:27:06
+Est attacker hashrate 1.45 MH/s
+Nicehash hashrate 1.5 MH/s
+Nicehash price 0.78 BTC/MH/s/Day
+Est Nicehash cost 0.11605818 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-05T03:49:10   2020-02-05T03:49:40      0000000264f86ea30baeee0f6ff3c127e674d6f954bc1eb0f39681e89f15f5e2  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY            0            2020-02-05T03:49:10  2020-02-05T03:49:40  0000000264f86ea30baeee0f6ff3c127e674d6f954bc1eb0f39681e89f15f5e2  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY            0
+        1  *    2020-02-05T04:32:45   2020-02-05T04:33:12      000000015bf4cf2c3fe4de8a29574fa91b87242f2f62d1aa8389e7d439ebe63c  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           30.4967  *    2020-02-05T04:17:39  2020-02-05T06:16:46  00000000370f9d211dfa402c11cfc667c79f114e1e63e3a2a4c8256fd243bd94  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.4967
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-05T04:36:51   2020-02-05T04:36:59      000000028c407ccdd2429d1bf2f1f6953ed6a4d001d9e424fc7fabbe00e623a5  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           31.3958       2020-02-05T05:02:07  2020-02-05T06:16:46  000000023c9b8a6b0bec7601eda5e820020ec1115869aa53f7968826bedaefae  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.4384
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-05T04:37:54   2020-02-05T04:38:50      00000000869f8007b280122ea066c01fb2c91e01643e23ff518d1db28c673d9e  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           31.9566       2020-02-05T05:02:11  2020-02-05T06:16:46  000000038515bb3a57dd86d1e9f4d6a8ddfa590ffc4b034a147cb9a382d3d282  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.9422
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-05T04:44:19   2020-02-05T04:44:28      00000000d3ee295f35d89ca8e197f0e270839a648306c4a175b48357f0a933c6  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           32.3728       2020-02-05T05:08:50  2020-02-05T06:16:46  00000001027af65a86d61c4c5fa89428bf28bae9aaa79f373901fd5de1ac38ad  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.3274
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-05T04:44:28   2020-02-05T04:44:55      00000002d64d9ad1293af8d7181e3ea9c575449d5859006b3ec0d2352604baa5  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.6999       2020-02-05T05:11:48  2020-02-05T06:16:46  000000006c728e9ec10c75e8a8d827900c9c95f5d434020e7ff9e8b24ccf4df0  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.6347
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        6       2020-02-05T05:16:56   2020-02-05T05:18:12      00000001f09472a7f184c25d2a015739669e2acb7726ba10c3c169917118b1d7  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.9772       2020-02-05T05:54:39  2020-02-05T06:16:46  0000000093a388e01b7dd0a350dcb153ec4a0ce81f654b38fc156e2f60add33b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.8946
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        7       2020-02-05T05:34:42   2020-02-05T05:34:56      00000001a98608a881acf2156d458f9d264b083158c25a85ef4331c7ea47ad92  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           33.1899       2020-02-05T06:00:00  2020-02-05T06:16:46  00000000a5f4e35da02f8f1b739199464424b1b7b0cd16e8e3ba60fd9ceeb16e  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.0907
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        8       2020-02-05T05:44:27   2020-02-05T05:44:38      00000002f35c86e6d5aa6bdf50cd5e0450e9080cbcd0330007d5a527fe97752f  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.37         2020-02-05T06:00:50  2020-02-05T06:16:46  00000002c8b4f66ab42c365b8e97ac4be8eaf3da730a09cfdb3b516c0b1cae1d  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.266
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-05T05:56:38   2020-02-05T05:56:48      00000001e02006ee23611b8d9ea886142bcb3f5bb2d6f3bdfe4f4908949224c1  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.5302       2020-02-05T06:08:58  2020-02-05T06:16:46  00000000f00f83a6603919a10e1941bd343abd0877e55d2da5210f4f9fed07a7  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.4273
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       10                                                                                                                                                                                   2020-02-05T06:15:13  2020-02-05T06:16:46  00000000cc7e54e01aafe5e56afebbfa28d40fbc94b22940a1a04375f3d9001c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.5734
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+
+	Double-spent Transactions
+	---
+
+	Original Transaction 32149531f7b0b7280000bcce2c729a275627ef0658d5a9a9cee583755dbee9d4 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      4083c0f9a039bdb8e2cb1d85feed29e294c0f530ee802b7411354533a873341c;0  ASoSjQoujD8mGGr39RKtC5LKiWojZWbkqe      4000000000
+	      1         e0105bbaf6464980b921daae3fa16333b1db3257c72707038fb2328be7d2d433;1  GZ8qgtf4i3usPsteUo8vf4UogLAFCBvE72       596539224
+	      2  *      08cea564ade9ad5a21a09a81022ec260e2069a8e6a5f4a2e3cf990468e1dea64;0
+	      3  *      c3990c7ce14de7042895ad13a6fea1eaf467d45965599ca1b73921b6c916aff1;0
+
+		Replacement Transaction f150f89dd287bc3eddae7c123abb38873a323b0b0c0eb6957b4d3f2c677992fc 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      4083c0f9a039bdb8e2cb1d85feed29e294c0f530ee802b7411354533a873341c;0  GbAr6XzfWpuAoqoueez2qRgwWUhD4BW4f4    198500000000
+		      1  *      08cea564ade9ad5a21a09a81022ec260e2069a8e6a5f4a2e3cf990468e1dea64;0  GMbt6FoFHm37EKCB3k65aFonJ38RSQsq5J        73030980
+		      2  *      7737f38cb3cbea598b39aa13b9b0405229b26e0a8d91093eef154194a5c0cb6c;1
+		      3  *      0a8e535653a28991851a61f0b75261b2966d9136208c8486f709e3f43ac3d8c2;0
+		      4  *      a1204844992dc31ee125cbcc3c1e5dda2bb896be572acfe9bba5f01dfa0975e5;0
+		      5  *      c3990c7ce14de7042895ad13a6fea1eaf467d45965599ca1b73921b6c916aff1;0
+
+	Original Transaction e0105bbaf6464980b921daae3fa16333b1db3257c72707038fb2328be7d2d433 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0         9577eaa4dd6cf4ac4248303ddf0683b53366324dfc04fa373e27ed7ef6cb9c07;1  ASoSjQoujD8mGGr39RKtC5LKiWojZWbkqe     95123500000
+	      1  *      0a8e535653a28991851a61f0b75261b2966d9136208c8486f709e3f43ac3d8c2;0  GV66Wdqqciki34QYAKPXhwpZGWYYjHbsb4       846184549
+	      2  *      a1204844992dc31ee125cbcc3c1e5dda2bb896be572acfe9bba5f01dfa0975e5;0
+
+		Replacement Transaction f150f89dd287bc3eddae7c123abb38873a323b0b0c0eb6957b4d3f2c677992fc 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      4083c0f9a039bdb8e2cb1d85feed29e294c0f530ee802b7411354533a873341c;0  GbAr6XzfWpuAoqoueez2qRgwWUhD4BW4f4    198500000000
+		      1  *      08cea564ade9ad5a21a09a81022ec260e2069a8e6a5f4a2e3cf990468e1dea64;0  GMbt6FoFHm37EKCB3k65aFonJ38RSQsq5J        73030980
+		      2  *      7737f38cb3cbea598b39aa13b9b0405229b26e0a8d91093eef154194a5c0cb6c;1
+		      3  *      0a8e535653a28991851a61f0b75261b2966d9136208c8486f709e3f43ac3d8c2;0
+		      4  *      a1204844992dc31ee125cbcc3c1e5dda2bb896be572acfe9bba5f01dfa0975e5;0
+		      5  *      c3990c7ce14de7042895ad13a6fea1eaf467d45965599ca1b73921b6c916aff1;0
+
+	Original Transaction 9577eaa4dd6cf4ac4248303ddf0683b53366324dfc04fa373e27ed7ef6cb9c07 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      7737f38cb3cbea598b39aa13b9b0405229b26e0a8d91093eef154194a5c0cb6c;1  AXFo9VQYcGJb7Q5c4dn6Mc3SZt2MJxma2G     98853000000
+	      1                                                                             GMbt6FoFHm37EKCB3k65aFonJ38RSQsq5J     17769776925
+
+		Replacement Transaction f150f89dd287bc3eddae7c123abb38873a323b0b0c0eb6957b4d3f2c677992fc 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      4083c0f9a039bdb8e2cb1d85feed29e294c0f530ee802b7411354533a873341c;0  GbAr6XzfWpuAoqoueez2qRgwWUhD4BW4f4    198500000000
+		      1  *      08cea564ade9ad5a21a09a81022ec260e2069a8e6a5f4a2e3cf990468e1dea64;0  GMbt6FoFHm37EKCB3k65aFonJ38RSQsq5J        73030980
+		      2  *      7737f38cb3cbea598b39aa13b9b0405229b26e0a8d91093eef154194a5c0cb6c;1
+		      3  *      0a8e535653a28991851a61f0b75261b2966d9136208c8486f709e3f43ac3d8c2;0
+		      4  *      a1204844992dc31ee125cbcc3c1e5dda2bb896be572acfe9bba5f01dfa0975e5;0
+		      5  *      c3990c7ce14de7042895ad13a6fea1eaf467d45965599ca1b73921b6c916aff1;0
+
+
+Reorg 8 at 2020-02-06T19:34:04 db ID: 90111
+Depth 3
+Length 4
+Est attacker chain duration 0:22:29
+Est attacker hashrate 3.46 MH/s
+Nicehash hashrate 2.87 MH/s
+Nicehash price 1.02 BTC/MH/s/Day
+Est Nicehash cost 0.05485423 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-06T19:09:48   2020-02-06T19:11:35      000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0            2020-02-06T19:09:48  2020-02-06T19:11:35  000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0
+        1       2020-02-06T19:15:35   2020-02-06T19:17:20      0000000235a0c26206c4c58023c01c519d82e868c87756dee4e37b4ee9bdad39  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           30.1099       2020-02-06T19:24:26  2020-02-06T19:34:04  000000035ff181312524743a00242d522fdf21c9256538c70f1027c6da6dfa12  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.1099
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-06T19:17:20   2020-02-06T19:17:37      00000002ee1f6f56af58b82325653cc45f0e2c94bb115993f7ef977000724a1f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.1225       2020-02-06T19:28:55  2020-02-06T19:34:04  00000000408f450928637bb4478e81ea3339a48d8662e6e9950633f33f4ef826  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.0963
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-06T19:21:17   2020-02-06T19:22:09      00000000836b31d164a299b336303d3768d5213d06fed238958d950879a3d1ff  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           31.7288       2020-02-06T19:29:59  2020-02-06T19:34:04  0000000178dd278536ba077972d163f70a64df1a4f2356d8f3d7ad407ee1bdfa  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6874
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4                                                                                                                                                                                   2020-02-06T19:31:06  2020-02-06T19:34:04  00000001c13dd2166f62622e8b728c07105f42c0e24badffd12d8e059f6a6ff4  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1194
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+
+
+Reorg 9 at 2020-02-06T20:11:00 db ID: 90123
+Depth 5
+Length 6
+Est attacker chain duration 0:59:25
+Est attacker hashrate 1.97 MH/s
+Nicehash hashrate 2.87 MH/s
+Nicehash price 1.02 BTC/MH/s/Day
+Est Nicehash cost 0.08245199 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-06T19:09:48   2020-02-06T19:11:35      000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0            2020-02-06T19:09:48  2020-02-06T19:11:35  000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0
+        1       2020-02-06T19:24:26   2020-02-06T19:34:04      000000035ff181312524743a00242d522fdf21c9256538c70f1027c6da6dfa12  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.1099       2020-02-06T19:15:35  2020-02-06T19:17:20  0000000235a0c26206c4c58023c01c519d82e868c87756dee4e37b4ee9bdad39  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           30.1099
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-06T19:28:55   2020-02-06T19:34:04      00000000408f450928637bb4478e81ea3339a48d8662e6e9950633f33f4ef826  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.0963       2020-02-06T19:17:20  2020-02-06T19:17:37  00000002ee1f6f56af58b82325653cc45f0e2c94bb115993f7ef977000724a1f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.1225
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-06T19:29:59   2020-02-06T19:34:04      0000000178dd278536ba077972d163f70a64df1a4f2356d8f3d7ad407ee1bdfa  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6874       2020-02-06T19:21:17  2020-02-06T19:22:09  00000000836b31d164a299b336303d3768d5213d06fed238958d950879a3d1ff  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           31.7288
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-06T19:31:06   2020-02-06T19:34:04      00000001c13dd2166f62622e8b728c07105f42c0e24badffd12d8e059f6a6ff4  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1194       2020-02-06T20:04:57  2020-02-06T20:11:00  00000000353c2925315928a3071ff1617a6b4d12ee0794648944e4b1e06097d8  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.1644
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-06T19:54:02   2020-02-06T19:55:49      00000001c9b0d28edc8822d878262c81692348dc3c99efa166a8d61d945855a7  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.4632       2020-02-06T20:10:20  2020-02-06T20:11:00  000000000adab39b03be732871693b53149988bed598735a15f22d36714f2fe9  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.4589
+        6                                                                                                                                                                                   2020-02-06T20:10:50  2020-02-06T20:11:00  00000000fe99168d06d9994cf6979bfd35e31f7a84f5b98e225385a2c8669aab  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.7073
+
+
+Reorg 10 at 2020-02-06T21:29:51 db ID: 90148
+Depth 13
+Length 14
+Est attacker chain duration 2:18:16
+Est attacker hashrate 1.91 MH/s
+Nicehash hashrate 2.87 MH/s
+Nicehash price 1.02 BTC/MH/s/Day
+Est Nicehash cost 0.18665646 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-06T19:09:48   2020-02-06T19:11:35      000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0            2020-02-06T19:09:48  2020-02-06T19:11:35  000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0
+        1       2020-02-06T19:15:35   2020-02-06T19:17:20      0000000235a0c26206c4c58023c01c519d82e868c87756dee4e37b4ee9bdad39  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           30.1099       2020-02-06T19:24:26  2020-02-06T19:34:04  000000035ff181312524743a00242d522fdf21c9256538c70f1027c6da6dfa12  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.1099
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-06T19:17:20   2020-02-06T19:17:37      00000002ee1f6f56af58b82325653cc45f0e2c94bb115993f7ef977000724a1f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.1225       2020-02-06T19:28:55  2020-02-06T19:34:04  00000000408f450928637bb4478e81ea3339a48d8662e6e9950633f33f4ef826  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.0963
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-06T19:21:17   2020-02-06T19:22:09      00000000836b31d164a299b336303d3768d5213d06fed238958d950879a3d1ff  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           31.7288       2020-02-06T19:29:59  2020-02-06T19:34:04  0000000178dd278536ba077972d163f70a64df1a4f2356d8f3d7ad407ee1bdfa  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6874
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-06T20:04:57   2020-02-06T20:11:00      00000000353c2925315928a3071ff1617a6b4d12ee0794648944e4b1e06097d8  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.1644       2020-02-06T19:31:06  2020-02-06T19:34:04  00000001c13dd2166f62622e8b728c07105f42c0e24badffd12d8e059f6a6ff4  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1194
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-06T20:10:20   2020-02-06T20:11:00      000000000adab39b03be732871693b53149988bed598735a15f22d36714f2fe9  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.4589       2020-02-06T20:00:25  2020-02-06T21:29:51  000000008102cfb620a0d11a401b74d83c86556427de48256fc3e0b6a58bbbfd  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.4632
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        6       2020-02-06T20:10:50   2020-02-06T20:11:00      00000000fe99168d06d9994cf6979bfd35e31f7a84f5b98e225385a2c8669aab  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.7073       2020-02-06T20:20:05  2020-02-06T21:29:51  00000000f912b00ad3a6f4206c4bbdc31b82ca35d8a846cbb0ef0d2189a16c3c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.7203
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        7       2020-02-06T20:14:55   2020-02-06T20:16:02      000000030cb0031a7320751df4ac71561655f118250caf0e6392b707ba00f18d  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.9269       2020-02-06T20:27:46  2020-02-06T21:29:51  00000003dc30859b084b93e7f9f8ccc8a2874178d330ca75e958052136c56ff2  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.9306
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        8       2020-02-06T20:18:47   2020-02-06T20:18:58      00000000784ded17a5cf6377a0dc2ced8cad5af67b02c49a1284226812aa92ec  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.1219       2020-02-06T20:28:07  2020-02-06T21:29:51  00000002f363f19c31a383d42bbcaa839f94c65972da1571457f9ddc5d95743e  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.1157
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-06T20:24:52   2020-02-06T20:26:48      00000000acc11b1c7755d93e5b2bb36e9208a2f28aad4c8ddbe397b6ba5528be  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.298        2020-02-06T21:03:07  2020-02-06T21:29:51  00000000fe36b7efa1aa8bb66295043fa22f0c05657fe4fab5254ca2aaa7c102  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2859
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       10       2020-02-06T20:37:33   2020-02-06T20:37:46      00000001508d5f7b46c0aff36560dbd6b59fd85aa4061492aebfeb7f70538080  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.4575       2020-02-06T21:09:59  2020-02-06T21:29:51  00000003c6f85c222f63c3dd0ecae011095e78e3184c8eb6fae88b8906882d8b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.4243
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       11       2020-02-06T20:51:31   2020-02-06T20:52:25      00000002495f7101e0a301d1379cfcc301cb0c79cf1ce4429747c6b8cce26d46  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           33.5995       2020-02-06T21:21:58  2020-02-06T21:29:51  00000001d4ffe7b8c8164c749114d7b7171152cfd84db00b2dcfb9a9c5aa5e7c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.552
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       12       2020-02-06T20:52:24   2020-02-06T20:52:43      00000002ff2163b7571f443c38ef554aa080e550572401c1638f43462e063804  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.7266       2020-02-06T21:22:03  2020-02-06T21:29:51  000000038539ebae62e54f48c3fdead5f263fb93774efb1d43aac017c69dbd9a  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.6684
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       13       2020-02-06T21:22:58   2020-02-06T21:23:20      00000000e3f653c39d9f40fd3a9e80535b00f8aa1ffa5f54f557f40dd90edc39  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.8481       2020-02-06T21:26:45  2020-02-06T21:29:51  000000036967ebddcf573111ec84b9dd270686f3162f0bc0783ad30b1c11d618  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.7802
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       14                                                                                                                                                                                   2020-02-06T21:28:24  2020-02-06T21:29:51  00000000d44fed44a6898b3bc237143b51c2d43c67da98e44c064d7921088c57  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.8861
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+
+
+Reorg 11 at 2020-02-06T21:55:03 db ID: 90159
+Depth 15
+Length 15
+Est attacker chain duration 2:43:28
+Est attacker hashrate 1.8 MH/s
+Nicehash hashrate 2.87 MH/s
+Nicehash price 1.02 BTC/MH/s/Day
+Est Nicehash cost 0.20768865 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-06T19:09:48   2020-02-06T19:11:35      000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0            2020-02-06T19:09:48  2020-02-06T19:11:35  000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0
+        1       2020-02-06T19:24:26   2020-02-06T19:34:04      000000035ff181312524743a00242d522fdf21c9256538c70f1027c6da6dfa12  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.1099       2020-02-06T19:15:35  2020-02-06T21:55:03  0000000235a0c26206c4c58023c01c519d82e868c87756dee4e37b4ee9bdad39  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           30.1099
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-06T19:28:55   2020-02-06T19:34:04      00000000408f450928637bb4478e81ea3339a48d8662e6e9950633f33f4ef826  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.0963       2020-02-06T19:17:20  2020-02-06T21:55:03  00000002ee1f6f56af58b82325653cc45f0e2c94bb115993f7ef977000724a1f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.1225
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-06T19:29:59   2020-02-06T19:34:04      0000000178dd278536ba077972d163f70a64df1a4f2356d8f3d7ad407ee1bdfa  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6874       2020-02-06T19:21:17  2020-02-06T21:55:03  00000000836b31d164a299b336303d3768d5213d06fed238958d950879a3d1ff  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           31.7288
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-06T19:31:06   2020-02-06T19:34:04      00000001c13dd2166f62622e8b728c07105f42c0e24badffd12d8e059f6a6ff4  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1194       2020-02-06T20:04:57  2020-02-06T21:55:03  00000000353c2925315928a3071ff1617a6b4d12ee0794648944e4b1e06097d8  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.1644
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-06T20:00:25   2020-02-06T21:29:51      000000008102cfb620a0d11a401b74d83c86556427de48256fc3e0b6a58bbbfd  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.4632       2020-02-06T20:10:20  2020-02-06T21:55:03  000000000adab39b03be732871693b53149988bed598735a15f22d36714f2fe9  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.4589
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        6       2020-02-06T20:20:05   2020-02-06T21:29:51      00000000f912b00ad3a6f4206c4bbdc31b82ca35d8a846cbb0ef0d2189a16c3c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.7203       2020-02-06T20:10:50  2020-02-06T21:55:03  00000000fe99168d06d9994cf6979bfd35e31f7a84f5b98e225385a2c8669aab  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.7073
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        7       2020-02-06T20:27:46   2020-02-06T21:29:51      00000003dc30859b084b93e7f9f8ccc8a2874178d330ca75e958052136c56ff2  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.9306       2020-02-06T20:14:55  2020-02-06T21:55:03  000000030cb0031a7320751df4ac71561655f118250caf0e6392b707ba00f18d  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.9269
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        8       2020-02-06T20:28:07   2020-02-06T21:29:51      00000002f363f19c31a383d42bbcaa839f94c65972da1571457f9ddc5d95743e  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.1157       2020-02-06T20:18:47  2020-02-06T21:55:03  00000000784ded17a5cf6377a0dc2ced8cad5af67b02c49a1284226812aa92ec  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.1219
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-06T21:03:07   2020-02-06T21:29:51      00000000fe36b7efa1aa8bb66295043fa22f0c05657fe4fab5254ca2aaa7c102  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2859       2020-02-06T20:24:52  2020-02-06T21:55:03  00000000acc11b1c7755d93e5b2bb36e9208a2f28aad4c8ddbe397b6ba5528be  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.298
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       10       2020-02-06T21:09:59   2020-02-06T21:29:51      00000003c6f85c222f63c3dd0ecae011095e78e3184c8eb6fae88b8906882d8b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.4243       2020-02-06T20:37:33  2020-02-06T21:55:03  00000001508d5f7b46c0aff36560dbd6b59fd85aa4061492aebfeb7f70538080  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.4575
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       11       2020-02-06T21:21:58   2020-02-06T21:29:51      00000001d4ffe7b8c8164c749114d7b7171152cfd84db00b2dcfb9a9c5aa5e7c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.552        2020-02-06T20:51:31  2020-02-06T21:55:03  00000002495f7101e0a301d1379cfcc301cb0c79cf1ce4429747c6b8cce26d46  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           33.5995
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       12       2020-02-06T21:22:03   2020-02-06T21:29:51      000000038539ebae62e54f48c3fdead5f263fb93774efb1d43aac017c69dbd9a  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.6684       2020-02-06T20:52:24  2020-02-06T21:55:03  00000002ff2163b7571f443c38ef554aa080e550572401c1638f43462e063804  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.7266
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       13       2020-02-06T21:26:45   2020-02-06T21:29:51      000000036967ebddcf573111ec84b9dd270686f3162f0bc0783ad30b1c11d618  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.7802       2020-02-06T21:22:58  2020-02-06T21:55:03  00000000e3f653c39d9f40fd3a9e80535b00f8aa1ffa5f54f557f40dd90edc39  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.8481
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       14       2020-02-06T21:28:24   2020-02-06T21:29:51      00000000d44fed44a6898b3bc237143b51c2d43c67da98e44c064d7921088c57  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.8861       2020-02-06T21:51:50  2020-02-06T21:55:03  000000019746591f4a834d191700ea3e4273e58d92e74c88618b7a98adf6ba72  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.9509
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       15       2020-02-06T21:50:48   2020-02-06T21:51:18      000000035c77f5908fe48ed1a4c2cfcf0bff63ed16065f29660bdc20f8f46a31  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.9882       2020-02-06T21:54:27  2020-02-06T21:55:03  00000002eedf372c446f5a47d6784b756cb90d2ac71a0b097e94bf5497303d00  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.0401
+
+
+Reorg 12 at 2020-02-06T21:58:13 db ID: 90164
+Depth 15
+Length 16
+Est attacker chain duration 2:46:38
+Est attacker hashrate 1.81 MH/s
+Nicehash hashrate 2.87 MH/s
+Nicehash price 1.02 BTC/MH/s/Day
+Est Nicehash cost 0.21333361 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-06T19:09:48   2020-02-06T19:11:35      000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0            2020-02-06T19:09:48  2020-02-06T19:11:35  000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0
+        1       2020-02-06T19:15:35   2020-02-06T21:55:03      0000000235a0c26206c4c58023c01c519d82e868c87756dee4e37b4ee9bdad39  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           30.1099       2020-02-06T19:24:26  2020-02-06T19:34:04  000000035ff181312524743a00242d522fdf21c9256538c70f1027c6da6dfa12  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.1099
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-06T19:17:20   2020-02-06T21:55:03      00000002ee1f6f56af58b82325653cc45f0e2c94bb115993f7ef977000724a1f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.1225       2020-02-06T19:28:55  2020-02-06T19:34:04  00000000408f450928637bb4478e81ea3339a48d8662e6e9950633f33f4ef826  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.0963
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-06T19:21:17   2020-02-06T21:55:03      00000000836b31d164a299b336303d3768d5213d06fed238958d950879a3d1ff  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           31.7288       2020-02-06T19:29:59  2020-02-06T19:34:04  0000000178dd278536ba077972d163f70a64df1a4f2356d8f3d7ad407ee1bdfa  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6874
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-06T20:04:57   2020-02-06T21:55:03      00000000353c2925315928a3071ff1617a6b4d12ee0794648944e4b1e06097d8  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.1644       2020-02-06T19:31:06  2020-02-06T19:34:04  00000001c13dd2166f62622e8b728c07105f42c0e24badffd12d8e059f6a6ff4  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1194
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-06T20:10:20   2020-02-06T21:55:03      000000000adab39b03be732871693b53149988bed598735a15f22d36714f2fe9  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.4589       2020-02-06T20:00:25  2020-02-06T21:29:51  000000008102cfb620a0d11a401b74d83c86556427de48256fc3e0b6a58bbbfd  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.4632
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        6       2020-02-06T20:10:50   2020-02-06T21:55:03      00000000fe99168d06d9994cf6979bfd35e31f7a84f5b98e225385a2c8669aab  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.7073       2020-02-06T20:20:05  2020-02-06T21:29:51  00000000f912b00ad3a6f4206c4bbdc31b82ca35d8a846cbb0ef0d2189a16c3c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.7203
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        7       2020-02-06T20:14:55   2020-02-06T21:55:03      000000030cb0031a7320751df4ac71561655f118250caf0e6392b707ba00f18d  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.9269       2020-02-06T20:27:46  2020-02-06T21:29:51  00000003dc30859b084b93e7f9f8ccc8a2874178d330ca75e958052136c56ff2  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.9306
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        8       2020-02-06T20:18:47   2020-02-06T21:55:03      00000000784ded17a5cf6377a0dc2ced8cad5af67b02c49a1284226812aa92ec  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.1219       2020-02-06T20:28:07  2020-02-06T21:29:51  00000002f363f19c31a383d42bbcaa839f94c65972da1571457f9ddc5d95743e  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.1157
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-06T20:24:52   2020-02-06T21:55:03      00000000acc11b1c7755d93e5b2bb36e9208a2f28aad4c8ddbe397b6ba5528be  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.298        2020-02-06T21:03:07  2020-02-06T21:29:51  00000000fe36b7efa1aa8bb66295043fa22f0c05657fe4fab5254ca2aaa7c102  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2859
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       10       2020-02-06T20:37:33   2020-02-06T21:55:03      00000001508d5f7b46c0aff36560dbd6b59fd85aa4061492aebfeb7f70538080  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.4575       2020-02-06T21:09:59  2020-02-06T21:29:51  00000003c6f85c222f63c3dd0ecae011095e78e3184c8eb6fae88b8906882d8b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.4243
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       11       2020-02-06T20:51:31   2020-02-06T21:55:03      00000002495f7101e0a301d1379cfcc301cb0c79cf1ce4429747c6b8cce26d46  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           33.5995       2020-02-06T21:21:58  2020-02-06T21:29:51  00000001d4ffe7b8c8164c749114d7b7171152cfd84db00b2dcfb9a9c5aa5e7c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.552
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       12       2020-02-06T20:52:24   2020-02-06T21:55:03      00000002ff2163b7571f443c38ef554aa080e550572401c1638f43462e063804  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.7266       2020-02-06T21:22:03  2020-02-06T21:29:51  000000038539ebae62e54f48c3fdead5f263fb93774efb1d43aac017c69dbd9a  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.6684
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       13       2020-02-06T21:22:58   2020-02-06T21:55:03      00000000e3f653c39d9f40fd3a9e80535b00f8aa1ffa5f54f557f40dd90edc39  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.8481       2020-02-06T21:26:45  2020-02-06T21:29:51  000000036967ebddcf573111ec84b9dd270686f3162f0bc0783ad30b1c11d618  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.7802
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       14       2020-02-06T21:51:50   2020-02-06T21:55:03      000000019746591f4a834d191700ea3e4273e58d92e74c88618b7a98adf6ba72  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.9509       2020-02-06T21:28:24  2020-02-06T21:29:51  00000000d44fed44a6898b3bc237143b51c2d43c67da98e44c064d7921088c57  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.8861
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       15       2020-02-06T21:54:27   2020-02-06T21:55:03      00000002eedf372c446f5a47d6784b756cb90d2ac71a0b097e94bf5497303d00  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.0401       2020-02-06T21:50:48  2020-02-06T21:51:18  000000035c77f5908fe48ed1a4c2cfcf0bff63ed16065f29660bdc20f8f46a31  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.9882
+       16                                                                                                                                                                                   2020-02-06T21:57:29  2020-02-06T21:58:13  00000001fd41e2f90c367f8016ae9eb3068e284c8bfff487359a784b5fada539  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.0788
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+
+
+Reorg 13 at 2020-02-06T21:59:45 db ID: 90165
+Depth 16
+Length 16
+Est attacker chain duration 2:48:10
+Est attacker hashrate 1.86 MH/s
+Nicehash hashrate 2.87 MH/s
+Nicehash price 1.02 BTC/MH/s/Day
+Est Nicehash cost 0.2205002 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-06T19:09:48   2020-02-06T19:11:35      000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0            2020-02-06T19:09:48  2020-02-06T19:11:35  000000014ec22617e027af18c1690868558b0ce2845a418a22a50b50f9866f91  GLTodZWWjuMWmXhu2fAtPM4e4Sv6Z2oZYP            0
+        1       2020-02-06T19:24:26   2020-02-06T19:34:04      000000035ff181312524743a00242d522fdf21c9256538c70f1027c6da6dfa12  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.1099       2020-02-06T19:15:35  2020-02-06T21:55:03  0000000235a0c26206c4c58023c01c519d82e868c87756dee4e37b4ee9bdad39  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           30.1099
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-06T19:28:55   2020-02-06T19:34:04      00000000408f450928637bb4478e81ea3339a48d8662e6e9950633f33f4ef826  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.0963       2020-02-06T19:17:20  2020-02-06T21:55:03  00000002ee1f6f56af58b82325653cc45f0e2c94bb115993f7ef977000724a1f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.1225
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-06T19:29:59   2020-02-06T19:34:04      0000000178dd278536ba077972d163f70a64df1a4f2356d8f3d7ad407ee1bdfa  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6874       2020-02-06T19:21:17  2020-02-06T21:55:03  00000000836b31d164a299b336303d3768d5213d06fed238958d950879a3d1ff  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           31.7288
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-06T19:31:06   2020-02-06T19:34:04      00000001c13dd2166f62622e8b728c07105f42c0e24badffd12d8e059f6a6ff4  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1194       2020-02-06T20:04:57  2020-02-06T21:55:03  00000000353c2925315928a3071ff1617a6b4d12ee0794648944e4b1e06097d8  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.1644
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-06T20:00:25   2020-02-06T21:29:51      000000008102cfb620a0d11a401b74d83c86556427de48256fc3e0b6a58bbbfd  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.4632       2020-02-06T20:10:20  2020-02-06T21:55:03  000000000adab39b03be732871693b53149988bed598735a15f22d36714f2fe9  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.4589
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        6       2020-02-06T20:20:05   2020-02-06T21:29:51      00000000f912b00ad3a6f4206c4bbdc31b82ca35d8a846cbb0ef0d2189a16c3c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.7203       2020-02-06T20:10:50  2020-02-06T21:55:03  00000000fe99168d06d9994cf6979bfd35e31f7a84f5b98e225385a2c8669aab  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.7073
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        7       2020-02-06T20:27:46   2020-02-06T21:29:51      00000003dc30859b084b93e7f9f8ccc8a2874178d330ca75e958052136c56ff2  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.9306       2020-02-06T20:14:55  2020-02-06T21:55:03  000000030cb0031a7320751df4ac71561655f118250caf0e6392b707ba00f18d  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.9269
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        8       2020-02-06T20:28:07   2020-02-06T21:29:51      00000002f363f19c31a383d42bbcaa839f94c65972da1571457f9ddc5d95743e  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.1157       2020-02-06T20:18:47  2020-02-06T21:55:03  00000000784ded17a5cf6377a0dc2ced8cad5af67b02c49a1284226812aa92ec  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.1219
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-06T21:03:07   2020-02-06T21:29:51      00000000fe36b7efa1aa8bb66295043fa22f0c05657fe4fab5254ca2aaa7c102  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2859       2020-02-06T20:24:52  2020-02-06T21:55:03  00000000acc11b1c7755d93e5b2bb36e9208a2f28aad4c8ddbe397b6ba5528be  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.298
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       10       2020-02-06T21:09:59   2020-02-06T21:29:51      00000003c6f85c222f63c3dd0ecae011095e78e3184c8eb6fae88b8906882d8b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.4243       2020-02-06T20:37:33  2020-02-06T21:55:03  00000001508d5f7b46c0aff36560dbd6b59fd85aa4061492aebfeb7f70538080  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.4575
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       11       2020-02-06T21:21:58   2020-02-06T21:29:51      00000001d4ffe7b8c8164c749114d7b7171152cfd84db00b2dcfb9a9c5aa5e7c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.552        2020-02-06T20:51:31  2020-02-06T21:55:03  00000002495f7101e0a301d1379cfcc301cb0c79cf1ce4429747c6b8cce26d46  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           33.5995
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       12       2020-02-06T21:22:03   2020-02-06T21:29:51      000000038539ebae62e54f48c3fdead5f263fb93774efb1d43aac017c69dbd9a  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.6684       2020-02-06T20:52:24  2020-02-06T21:55:03  00000002ff2163b7571f443c38ef554aa080e550572401c1638f43462e063804  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.7266
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       13       2020-02-06T21:26:45   2020-02-06T21:29:51      000000036967ebddcf573111ec84b9dd270686f3162f0bc0783ad30b1c11d618  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.7802       2020-02-06T21:22:58  2020-02-06T21:55:03  00000000e3f653c39d9f40fd3a9e80535b00f8aa1ffa5f54f557f40dd90edc39  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.8481
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       14       2020-02-06T21:28:24   2020-02-06T21:29:51      00000000d44fed44a6898b3bc237143b51c2d43c67da98e44c064d7921088c57  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.8861       2020-02-06T21:51:50  2020-02-06T21:55:03  000000019746591f4a834d191700ea3e4273e58d92e74c88618b7a98adf6ba72  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.9509
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       15       2020-02-06T21:50:48   2020-02-06T21:51:18      000000035c77f5908fe48ed1a4c2cfcf0bff63ed16065f29660bdc20f8f46a31  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.9882       2020-02-06T21:54:27  2020-02-06T21:55:03  00000002eedf372c446f5a47d6784b756cb90d2ac71a0b097e94bf5497303d00  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.0401
+       16       2020-02-06T21:57:29   2020-02-06T21:58:13      00000001fd41e2f90c367f8016ae9eb3068e284c8bfff487359a784b5fada539  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.0788       2020-02-06T21:59:40  2020-02-06T21:59:45  00000000d142c7522be951abcce62a929c68ca612f02e06996d54b778ce108fd  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.1265
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+
+
+Reorg 14 at 2020-02-08T06:56:32 db ID: 90671
+Depth 9
+Length 9
+Est attacker chain duration 2:51:00
+Est attacker hashrate 1.22 MH/s
+Nicehash hashrate 1.0 MH/s
+Nicehash price 0.69 BTC/MH/s/Day
+Est Nicehash cost 0.099488 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-08T04:04:34   2020-02-08T04:05:32      0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0            2020-02-08T04:04:34  2020-02-08T04:05:32  0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0
+        1  *    2020-02-08T04:22:02   2020-02-08T04:22:42      000000018039df312dcf5d7717f8a749dfd743f1624eba92e4152434b5fc59d3  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           30.6751  *    2020-02-08T04:20:12  2020-02-08T06:56:32  00000001bd611ce076d502d64c5c10a2a5eca3011df502851c64eab4b026372d  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.6751
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-08T05:20:42   2020-02-08T05:22:39      0000000232512c8ce9206bc465bf21935f984c8ac044315db0fe526542882f00  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           31.6486       2020-02-08T04:55:12  2020-02-08T06:56:32  00000001cf5c4981a536c14edc213d5ad70a3204f4ae0cddb65953a5ee17769b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6549
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-08T05:30:39   2020-02-08T05:31:34      0000000146910a8f41d4c104b7db8121aa247278b12264af0f94e2097a81926f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.1319       2020-02-08T04:57:27  2020-02-08T06:56:32  00000001ef4bbbc413a0bc35c1cd60b4e00e51e8c4a24f1e21461f480c590712  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1807
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-08T05:39:34   2020-02-08T05:41:23      000000010cec0962bf427c7647de7af632a213941052b6a929ca69e521340c70  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.4934       2020-02-08T05:39:05  2020-02-08T06:56:32  0000000231174f7ea65a5a3db70dc819313d3dca5c9dce8f1552912aa3284bcc  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.5769
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-08T06:07:04   2020-02-08T06:07:47      00000002248e7b57c202065193861e41ad2191e7f6fd6dcc82546175a32f3fed  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.7834       2020-02-08T06:21:06  2020-02-08T06:56:32  00000000abd9cfea4a3d65054bbb410306ea0645c47cf022c564c2ea28c11f08  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.8527
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        6       2020-02-08T06:23:21   2020-02-08T06:23:35      00000002b7aa1a2ac8003e4dd68279173d63f62881a298b2c06fc6fd3f4c1259  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.0106       2020-02-08T06:40:13  2020-02-08T06:56:32  000000014d44e7f4be3c3a3a7ff93c113410c2d7fb0d2cc039000bf0fa787084  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.0603
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        7       2020-02-08T06:34:34   2020-02-08T06:34:55      000000014863587ddf6b30cd9ac1ad66a57c46db335e839d60d93bdea2566182  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.2026       2020-02-08T06:42:23  2020-02-08T06:56:32  00000000208215a321b7e52d0c20c7cddc722f573f5b17744152a8e14e63cdf5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2365
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        8       2020-02-08T06:46:55   2020-02-08T06:47:45      00000003116cd284a98aed1fd50cb476ccfac9bd8a1ee4a1190e11966d9c3614  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.3713       2020-02-08T06:52:25  2020-02-08T06:56:32  00000001289e7c1409d64fbf2595b3e5b2f67658c94785ac6afe3db8bf984de5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.3973
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-08T06:51:25   2020-02-08T06:51:51      00000001662698e437de0af21053cc73d519415c0a4978a985fbd80b90417888  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.5209       2020-02-08T06:53:19  2020-02-08T06:56:32  0000000061f354083d79bca172e6073d9b09e817ecc3eb21db87ddf2af9a5c2c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.5418
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+
+	Double-spent Transactions
+	---
+
+	Original Transaction d5ffe8de9e417de3b5db67ae3276bc490e253bae33f2eaef1b934b933c14384b 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  AbCNuEYdL6f4VumChQYT9W5MMSVs7pafdD    195100000000
+	      1  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb        37931200
+	      2  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+	      3  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+	      4  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+	      5  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+	      6         757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae;1
+	      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+	      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+	      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+	     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+	     11         f150f89dd287bc3eddae7c123abb38873a323b0b0c0eb6957b4d3f2c677992fc;1
+
+		Replacement Transaction f387bf7793a4a04f9f3df12b2d5de24a24decd78de207e802d0bda899c28001c 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0         50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608;1  GYzEgquu6RNuiaZ7U8b51LQvKJQkepWhmh    111900000000
+		      1  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb         7694347
+		      2  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0
+		      3  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+		      4  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+		      5  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+		      6  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+		      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+		      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+		      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+		     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+
+	Original Transaction 757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc    243900000000
+	      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu    182562959281
+
+		Replacement Transaction 50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  GVeNG66p5BrQEm1LYnZzhQ4m7c6tNk16vp    327057206024
+		      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu     99405753255
+
+
+Reorg 15 at 2020-02-08T07:35:57 db ID: 90682
+Depth 12
+Length 13
+Est attacker chain duration 3:30:25
+Est attacker hashrate 1.35 MH/s
+Nicehash hashrate 1.0 MH/s
+Nicehash price 0.69 BTC/MH/s/Day
+Est Nicehash cost 0.13581578 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-08T04:04:34   2020-02-08T04:05:32      0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0            2020-02-08T04:04:34  2020-02-08T04:05:32  0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0
+        1  *    2020-02-08T04:20:12   2020-02-08T06:56:32      00000001bd611ce076d502d64c5c10a2a5eca3011df502851c64eab4b026372d  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.6751  *    2020-02-08T04:22:02  2020-02-08T04:22:42  000000018039df312dcf5d7717f8a749dfd743f1624eba92e4152434b5fc59d3  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           30.6751
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-08T04:55:12   2020-02-08T06:56:32      00000001cf5c4981a536c14edc213d5ad70a3204f4ae0cddb65953a5ee17769b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6549       2020-02-08T05:20:42  2020-02-08T05:22:39  0000000232512c8ce9206bc465bf21935f984c8ac044315db0fe526542882f00  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           31.6486
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-08T04:57:27   2020-02-08T06:56:32      00000001ef4bbbc413a0bc35c1cd60b4e00e51e8c4a24f1e21461f480c590712  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1807       2020-02-08T05:30:39  2020-02-08T05:31:34  0000000146910a8f41d4c104b7db8121aa247278b12264af0f94e2097a81926f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.1319
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-08T05:39:05   2020-02-08T06:56:32      0000000231174f7ea65a5a3db70dc819313d3dca5c9dce8f1552912aa3284bcc  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.5769       2020-02-08T05:39:34  2020-02-08T05:41:23  000000010cec0962bf427c7647de7af632a213941052b6a929ca69e521340c70  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.4934
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-08T06:21:06   2020-02-08T06:56:32      00000000abd9cfea4a3d65054bbb410306ea0645c47cf022c564c2ea28c11f08  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.8527       2020-02-08T06:07:04  2020-02-08T06:07:47  00000002248e7b57c202065193861e41ad2191e7f6fd6dcc82546175a32f3fed  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.7834
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        6       2020-02-08T06:40:13   2020-02-08T06:56:32      000000014d44e7f4be3c3a3a7ff93c113410c2d7fb0d2cc039000bf0fa787084  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.0603       2020-02-08T06:23:21  2020-02-08T06:23:35  00000002b7aa1a2ac8003e4dd68279173d63f62881a298b2c06fc6fd3f4c1259  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.0106
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        7       2020-02-08T06:42:23   2020-02-08T06:56:32      00000000208215a321b7e52d0c20c7cddc722f573f5b17744152a8e14e63cdf5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2365       2020-02-08T06:34:34  2020-02-08T06:34:55  000000014863587ddf6b30cd9ac1ad66a57c46db335e839d60d93bdea2566182  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.2026
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        8       2020-02-08T06:52:25   2020-02-08T06:56:32      00000001289e7c1409d64fbf2595b3e5b2f67658c94785ac6afe3db8bf984de5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.3973       2020-02-08T06:46:55  2020-02-08T06:47:45  00000003116cd284a98aed1fd50cb476ccfac9bd8a1ee4a1190e11966d9c3614  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.3713
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-08T06:53:19   2020-02-08T06:56:32      0000000061f354083d79bca172e6073d9b09e817ecc3eb21db87ddf2af9a5c2c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.5418       2020-02-08T06:51:25  2020-02-08T06:51:51  00000001662698e437de0af21053cc73d519415c0a4978a985fbd80b90417888  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.5209
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       10       2020-02-08T06:55:09   2020-02-08T06:56:32      0000000339b0f8b6975a0c707f4a395716405f6d9576b1674c8e364acb6c5f08  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.6772       2020-02-08T07:20:16  2020-02-08T07:35:57  00000003047990c0f3de16ce1a829a020f4c664ffe4191b18c9d3af19e2ea2d2  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.659
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       11       2020-02-08T06:58:56   2020-02-08T06:59:02      000000020704fc446b4ee74a9856678e2bff9d6d167bd34cf93c140825cc283a  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           33.8045       2020-02-08T07:29:03  2020-02-08T07:35:57  0000000137b998348adb6743d9fa1e03219b2ffaebbd36c09cef248c829d48c6  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.7772
+       12       2020-02-08T07:07:17   2020-02-08T07:08:05      00000003353fc61940b7ad9211597b275dc39b7f51643296a27f91621d899409  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.9241       2020-02-08T07:32:55  2020-02-08T07:35:57  00000001d1caede1fd6399c328fc52e9e0ec516341f524df74595f8e3422e99f  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.8869
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       13                                                                                                                                                                                   2020-02-08T07:33:47  2020-02-08T07:35:57  000000007816c271ec1e14b74d1d993fd75767376dfd729ab27d1abd3c00be73  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.9909
+
+	Double-spent Transactions
+	---
+
+	Original Transaction f387bf7793a4a04f9f3df12b2d5de24a24decd78de207e802d0bda899c28001c 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0         50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608;1  GYzEgquu6RNuiaZ7U8b51LQvKJQkepWhmh    111900000000
+	      1  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb         7694347
+	      2  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0
+	      3  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+	      4  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+	      5  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+	      6  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+	      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+	      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+	      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+	     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+
+		Replacement Transaction d5ffe8de9e417de3b5db67ae3276bc490e253bae33f2eaef1b934b933c14384b 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  AbCNuEYdL6f4VumChQYT9W5MMSVs7pafdD    195100000000
+		      1  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb        37931200
+		      2  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+		      3  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+		      4  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+		      5  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+		      6         757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae;1
+		      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+		      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+		      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+		     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+		     11         f150f89dd287bc3eddae7c123abb38873a323b0b0c0eb6957b4d3f2c677992fc;1
+
+	Original Transaction 50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  GVeNG66p5BrQEm1LYnZzhQ4m7c6tNk16vp    327057206024
+	      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu     99405753255
+
+		Replacement Transaction 757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc    243900000000
+		      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu    182562959281
+
+
+Reorg 16 at 2020-02-08T09:00:15 db ID: 90700
+Depth 21
+Length 22
+Est attacker chain duration 4:54:43
+Est attacker hashrate 1.59 MH/s
+Nicehash hashrate 1.0 MH/s
+Nicehash price 0.69 BTC/MH/s/Day
+Est Nicehash cost 0.22335578 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-08T04:04:34   2020-02-08T04:05:32      0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0            2020-02-08T04:04:34  2020-02-08T04:05:32  0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0
+        1  *    2020-02-08T04:22:02   2020-02-08T04:22:42      000000018039df312dcf5d7717f8a749dfd743f1624eba92e4152434b5fc59d3  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           30.6751  *    2020-02-08T04:20:12  2020-02-08T06:56:32  00000001bd611ce076d502d64c5c10a2a5eca3011df502851c64eab4b026372d  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.6751
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-08T05:20:42   2020-02-08T05:22:39      0000000232512c8ce9206bc465bf21935f984c8ac044315db0fe526542882f00  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           31.6486       2020-02-08T04:55:12  2020-02-08T06:56:32  00000001cf5c4981a536c14edc213d5ad70a3204f4ae0cddb65953a5ee17769b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6549
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-08T05:30:39   2020-02-08T05:31:34      0000000146910a8f41d4c104b7db8121aa247278b12264af0f94e2097a81926f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.1319       2020-02-08T04:57:27  2020-02-08T06:56:32  00000001ef4bbbc413a0bc35c1cd60b4e00e51e8c4a24f1e21461f480c590712  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1807
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-08T05:39:34   2020-02-08T05:41:23      000000010cec0962bf427c7647de7af632a213941052b6a929ca69e521340c70  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.4934       2020-02-08T05:39:05  2020-02-08T06:56:32  0000000231174f7ea65a5a3db70dc819313d3dca5c9dce8f1552912aa3284bcc  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.5769
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-08T06:07:04   2020-02-08T06:07:47      00000002248e7b57c202065193861e41ad2191e7f6fd6dcc82546175a32f3fed  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.7834       2020-02-08T06:21:06  2020-02-08T06:56:32  00000000abd9cfea4a3d65054bbb410306ea0645c47cf022c564c2ea28c11f08  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.8527
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        6       2020-02-08T06:23:21   2020-02-08T06:23:35      00000002b7aa1a2ac8003e4dd68279173d63f62881a298b2c06fc6fd3f4c1259  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.0106       2020-02-08T06:40:13  2020-02-08T06:56:32  000000014d44e7f4be3c3a3a7ff93c113410c2d7fb0d2cc039000bf0fa787084  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.0603
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        7       2020-02-08T06:34:34   2020-02-08T06:34:55      000000014863587ddf6b30cd9ac1ad66a57c46db335e839d60d93bdea2566182  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.2026       2020-02-08T06:42:23  2020-02-08T06:56:32  00000000208215a321b7e52d0c20c7cddc722f573f5b17744152a8e14e63cdf5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2365
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        8       2020-02-08T06:46:55   2020-02-08T06:47:45      00000003116cd284a98aed1fd50cb476ccfac9bd8a1ee4a1190e11966d9c3614  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.3713       2020-02-08T06:52:25  2020-02-08T06:56:32  00000001289e7c1409d64fbf2595b3e5b2f67658c94785ac6afe3db8bf984de5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.3973
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-08T06:51:25   2020-02-08T06:51:51      00000001662698e437de0af21053cc73d519415c0a4978a985fbd80b90417888  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.5209       2020-02-08T06:53:19  2020-02-08T06:56:32  0000000061f354083d79bca172e6073d9b09e817ecc3eb21db87ddf2af9a5c2c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.5418
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P                                                                                                                                     GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       10       2020-02-08T07:20:16   2020-02-08T07:35:57      00000003047990c0f3de16ce1a829a020f4c664ffe4191b18c9d3af19e2ea2d2  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.659        2020-02-08T06:55:09  2020-02-08T06:56:32  0000000339b0f8b6975a0c707f4a395716405f6d9576b1674c8e364acb6c5f08  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.6772
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       11       2020-02-08T07:29:03   2020-02-08T07:35:57      0000000137b998348adb6743d9fa1e03219b2ffaebbd36c09cef248c829d48c6  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.7772       2020-02-08T06:58:56  2020-02-08T06:59:02  000000020704fc446b4ee74a9856678e2bff9d6d167bd34cf93c140825cc283a  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           33.8045
+       12       2020-02-08T07:32:55   2020-02-08T07:35:57      00000001d1caede1fd6399c328fc52e9e0ec516341f524df74595f8e3422e99f  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.8869       2020-02-08T07:07:17  2020-02-08T07:08:05  00000003353fc61940b7ad9211597b275dc39b7f51643296a27f91621d899409  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.9241
+                                                                                                                                                                                                                                                                                                        GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       13       2020-02-08T07:33:47   2020-02-08T07:35:57      000000007816c271ec1e14b74d1d993fd75767376dfd729ab27d1abd3c00be73  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.9909       2020-02-08T07:53:46  2020-02-08T09:00:15  000000005b8f597b44143654aaca261bef61c707e2ea65a67f43c095f57af3d1  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.0353
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       14       2020-02-08T07:37:23   2020-02-08T07:37:48      00000000f638d18cc908bc5aa0e4f0c6df6b59bc238668b5de08a7d863121d1d  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           34.0909       2020-02-08T08:12:01  2020-02-08T09:00:15  00000001a173da8d0ac68351a899f2595c23951d4ab65fdb253e440ebe127693  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.1262
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       15       2020-02-08T07:38:48   2020-02-08T07:39:02      0000000348977a28361416976445832db3123e225f4c7243da8fbf31c012b639  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.1865       2020-02-08T08:15:08  2020-02-08T09:00:15  000000014825db1df9b6c47c0f15c96e67a58eaa5c73661e8bf82cb544353785  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.2093
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       16       2020-02-08T07:41:16   2020-02-08T07:41:27      00000001f4c7a3e631a9f716f22bcfff032cadab1c886917fa71dd64007e8a43  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.2791       2020-02-08T08:24:33  2020-02-08T09:00:15  00000001955bc349fc1540a5834d86dad5e61e639db1cb509443f8bdf76d4ae0  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.2897
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       17       2020-02-08T07:51:26   2020-02-08T07:51:28      00000000a2b6099d74e8c14f43ecf5c3c78bce247e112565ce7a600107d6f11e  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.3686       2020-02-08T08:26:57  2020-02-08T09:00:15  00000001dee68cee5c2062a545f4ec219368c43626f00f4baa180ed10fa1f12b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.3658
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       18       2020-02-08T08:04:13   2020-02-08T08:04:17      0000000085e7d9b9017e5408cbfcf64427212e30eb2f071189ea8001a89b78e5  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.4528       2020-02-08T08:33:44  2020-02-08T09:00:15  000000016bbe4d4d86283daeaa8d7104ee0d697bbc8e435e0b63bb964d272ec6  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.4399
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       19       2020-02-08T08:10:32   2020-02-08T08:10:33      0000000299a6b651fab7a499c8d3f19419bd2392f6e9c9e3469bfe915c5d07c2  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.5315       2020-02-08T08:45:54  2020-02-08T09:00:15  00000003a17a854629d53c3fee8520f6f9444ee619ec03d1e5bd4d3e7a567ab2  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.5111
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       20       2020-02-08T08:12:33   2020-02-08T08:13:40      000000016fc42421b5046836792d934bc0b7c9051ed47845c583886c7cb7bddf  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           34.6072       2020-02-08T08:47:30  2020-02-08T09:00:15  0000000349ef71330105504f52d9ee6bf9fa79aec29f6446eb808d6fdf2f3e97  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.5784
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       21       2020-02-08T08:22:50   2020-02-08T08:23:35      00000000b9bdd518227b8c36c5b7871e07fdd257631a78c3be984b514dba15ba  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           34.6814       2020-02-08T08:54:21  2020-02-08T09:00:15  0000000029e2fd85c3f70188ad8e0bb2924b66e18a594908bea2807c95de652c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.6446
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       22                                                                                                                                                                                   2020-02-08T08:58:01  2020-02-08T09:00:15  00000002d50fd8140a07d2db4a2afbbd13a5ca14b7bf7e11c872e8c11b81eefb  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.7085
+                                                                                                                                                                                                                                                                                                        GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+
+	Double-spent Transactions
+	---
+
+	Original Transaction d5ffe8de9e417de3b5db67ae3276bc490e253bae33f2eaef1b934b933c14384b 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  AbCNuEYdL6f4VumChQYT9W5MMSVs7pafdD    195100000000
+	      1  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb        37931200
+	      2  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+	      3  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+	      4  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+	      5  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+	      6         757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae;1
+	      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+	      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+	      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+	     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+	     11         f150f89dd287bc3eddae7c123abb38873a323b0b0c0eb6957b4d3f2c677992fc;1
+
+		Replacement Transaction f387bf7793a4a04f9f3df12b2d5de24a24decd78de207e802d0bda899c28001c 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0         50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608;1  GYzEgquu6RNuiaZ7U8b51LQvKJQkepWhmh    111900000000
+		      1  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb         7694347
+		      2  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0
+		      3  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+		      4  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+		      5  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+		      6  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+		      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+		      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+		      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+		     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+
+	Original Transaction 757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc    243900000000
+	      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu    182562959281
+
+		Replacement Transaction 50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  GVeNG66p5BrQEm1LYnZzhQ4m7c6tNk16vp    327057206024
+		      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu     99405753255
+
+
+Reorg 17 at 2020-02-08T09:28:20 db ID: 90706
+Depth 23
+Length 23
+Est attacker chain duration 5:22:48
+Est attacker hashrate 1.55 MH/s
+Nicehash hashrate 1.0 MH/s
+Nicehash price 0.69 BTC/MH/s/Day
+Est Nicehash cost 0.23952262 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-08T04:04:34   2020-02-08T04:05:32      0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0            2020-02-08T04:04:34  2020-02-08T04:05:32  0000000239ee124dfb934c244fba10465e8d03aa655f96a47c6aefea5653e8b0  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U            0
+        1  *    2020-02-08T04:20:12   2020-02-08T06:56:32      00000001bd611ce076d502d64c5c10a2a5eca3011df502851c64eab4b026372d  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           30.6751  *    2020-02-08T04:22:02  2020-02-08T09:28:20  000000018039df312dcf5d7717f8a749dfd743f1624eba92e4152434b5fc59d3  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           30.6751
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        2       2020-02-08T04:55:12   2020-02-08T06:56:32      00000001cf5c4981a536c14edc213d5ad70a3204f4ae0cddb65953a5ee17769b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           31.6549       2020-02-08T05:20:42  2020-02-08T09:28:20  0000000232512c8ce9206bc465bf21935f984c8ac044315db0fe526542882f00  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           31.6486
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        3       2020-02-08T04:57:27   2020-02-08T06:56:32      00000001ef4bbbc413a0bc35c1cd60b4e00e51e8c4a24f1e21461f480c590712  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.1807       2020-02-08T05:30:39  2020-02-08T09:28:20  0000000146910a8f41d4c104b7db8121aa247278b12264af0f94e2097a81926f  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.1319
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        4       2020-02-08T05:39:05   2020-02-08T06:56:32      0000000231174f7ea65a5a3db70dc819313d3dca5c9dce8f1552912aa3284bcc  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.5769       2020-02-08T05:39:34  2020-02-08T09:28:20  000000010cec0962bf427c7647de7af632a213941052b6a929ca69e521340c70  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.4934
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        5       2020-02-08T06:21:06   2020-02-08T06:56:32      00000000abd9cfea4a3d65054bbb410306ea0645c47cf022c564c2ea28c11f08  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           32.8527       2020-02-08T06:07:04  2020-02-08T09:28:20  00000002248e7b57c202065193861e41ad2191e7f6fd6dcc82546175a32f3fed  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.7834
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        6       2020-02-08T06:40:13   2020-02-08T06:56:32      000000014d44e7f4be3c3a3a7ff93c113410c2d7fb0d2cc039000bf0fa787084  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.0603       2020-02-08T06:23:21  2020-02-08T09:28:20  00000002b7aa1a2ac8003e4dd68279173d63f62881a298b2c06fc6fd3f4c1259  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.0106
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        7       2020-02-08T06:42:23   2020-02-08T06:56:32      00000000208215a321b7e52d0c20c7cddc722f573f5b17744152a8e14e63cdf5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.2365       2020-02-08T06:34:34  2020-02-08T09:28:20  000000014863587ddf6b30cd9ac1ad66a57c46db335e839d60d93bdea2566182  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.2026
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        8       2020-02-08T06:52:25   2020-02-08T06:56:32      00000001289e7c1409d64fbf2595b3e5b2f67658c94785ac6afe3db8bf984de5  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.3973       2020-02-08T06:46:55  2020-02-08T09:28:20  00000003116cd284a98aed1fd50cb476ccfac9bd8a1ee4a1190e11966d9c3614  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.3713
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+        9       2020-02-08T06:53:19   2020-02-08T06:56:32      0000000061f354083d79bca172e6073d9b09e817ecc3eb21db87ddf2af9a5c2c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.5418       2020-02-08T06:51:25  2020-02-08T09:28:20  00000001662698e437de0af21053cc73d519415c0a4978a985fbd80b90417888  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.5209
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD                                                                                                                                     GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       10       2020-02-08T06:55:09   2020-02-08T06:56:32      0000000339b0f8b6975a0c707f4a395716405f6d9576b1674c8e364acb6c5f08  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           33.6772       2020-02-08T07:20:16  2020-02-08T09:28:20  00000003047990c0f3de16ce1a829a020f4c664ffe4191b18c9d3af19e2ea2d2  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.659
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       11       2020-02-08T06:58:56   2020-02-08T06:59:02      000000020704fc446b4ee74a9856678e2bff9d6d167bd34cf93c140825cc283a  GP4MnT7Xm4ahZhRcWFaqPGkZknMda1XuzA           33.8045       2020-02-08T07:29:03  2020-02-08T09:28:20  0000000137b998348adb6743d9fa1e03219b2ffaebbd36c09cef248c829d48c6  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.7772
+       12       2020-02-08T07:07:17   2020-02-08T07:08:05      00000003353fc61940b7ad9211597b275dc39b7f51643296a27f91621d899409  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.9241       2020-02-08T07:32:55  2020-02-08T09:28:20  00000001d1caede1fd6399c328fc52e9e0ec516341f524df74595f8e3422e99f  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.8869
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       13       2020-02-08T07:53:46   2020-02-08T09:00:15      000000005b8f597b44143654aaca261bef61c707e2ea65a67f43c095f57af3d1  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.0353       2020-02-08T07:33:47  2020-02-08T09:28:20  000000007816c271ec1e14b74d1d993fd75767376dfd729ab27d1abd3c00be73  GbWi6y7c6UT1Ee9GzteUPuqiKMT6kUgDua           33.9909
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       14       2020-02-08T08:12:01   2020-02-08T09:00:15      00000001a173da8d0ac68351a899f2595c23951d4ab65fdb253e440ebe127693  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.1262       2020-02-08T07:37:23  2020-02-08T09:28:20  00000000f638d18cc908bc5aa0e4f0c6df6b59bc238668b5de08a7d863121d1d  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           34.0909
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       15       2020-02-08T08:15:08   2020-02-08T09:00:15      000000014825db1df9b6c47c0f15c96e67a58eaa5c73661e8bf82cb544353785  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.2093       2020-02-08T07:38:48  2020-02-08T09:28:20  0000000348977a28361416976445832db3123e225f4c7243da8fbf31c012b639  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.1865
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       16       2020-02-08T08:24:33   2020-02-08T09:00:15      00000001955bc349fc1540a5834d86dad5e61e639db1cb509443f8bdf76d4ae0  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.2897       2020-02-08T07:41:16  2020-02-08T09:28:20  00000001f4c7a3e631a9f716f22bcfff032cadab1c886917fa71dd64007e8a43  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.2791
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       17       2020-02-08T08:26:57   2020-02-08T09:00:15      00000001dee68cee5c2062a545f4ec219368c43626f00f4baa180ed10fa1f12b  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.3658       2020-02-08T07:51:26  2020-02-08T09:28:20  00000000a2b6099d74e8c14f43ecf5c3c78bce247e112565ce7a600107d6f11e  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.3686
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       18       2020-02-08T08:33:44   2020-02-08T09:00:15      000000016bbe4d4d86283daeaa8d7104ee0d697bbc8e435e0b63bb964d272ec6  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.4399       2020-02-08T08:04:13  2020-02-08T09:28:20  0000000085e7d9b9017e5408cbfcf64427212e30eb2f071189ea8001a89b78e5  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.4528
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       19       2020-02-08T08:45:54   2020-02-08T09:00:15      00000003a17a854629d53c3fee8520f6f9444ee619ec03d1e5bd4d3e7a567ab2  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.5111       2020-02-08T08:10:32  2020-02-08T09:28:20  0000000299a6b651fab7a499c8d3f19419bd2392f6e9c9e3469bfe915c5d07c2  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.5315
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       20       2020-02-08T08:47:30   2020-02-08T09:00:15      0000000349ef71330105504f52d9ee6bf9fa79aec29f6446eb808d6fdf2f3e97  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.5784       2020-02-08T08:12:33  2020-02-08T09:28:20  000000016fc42421b5046836792d934bc0b7c9051ed47845c583886c7cb7bddf  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           34.6072
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       21       2020-02-08T08:54:21   2020-02-08T09:00:15      0000000029e2fd85c3f70188ad8e0bb2924b66e18a594908bea2807c95de652c  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.6446       2020-02-08T08:22:50  2020-02-08T09:28:20  00000000b9bdd518227b8c36c5b7871e07fdd257631a78c3be984b514dba15ba  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           34.6814
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       22       2020-02-08T08:58:01   2020-02-08T09:00:15      00000002d50fd8140a07d2db4a2afbbd13a5ca14b7bf7e11c872e8c11b81eefb  Gh46Jw1vCtg3iqLQdMhHAWTaKTH3sB1Xex           34.7085       2020-02-08T09:14:35  2020-02-08T09:28:20  000000023b7ea36e75782bb8d1cdf0bdc77e84afe8b7a0add800c1dd566970b1  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.7519
+                                                                                                                                 GKGUq2p4WSFT4zAJNLa8QggnZiPdBc1TTD
+       23       2020-02-08T09:09:43   2020-02-08T09:10:13      00000002c5963b7b3cd9ea53879e51f9ba53691553f0877467a13c3e1ba881a7  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           34.7712       2020-02-08T09:27:43  2020-02-08T09:28:20  000000026bf63cf2bb5dbc414a9ff62ebe6d4b17530271b28d1debaf4cd78041  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.8094
+
+	Double-spent Transactions
+	---
+
+	Original Transaction f387bf7793a4a04f9f3df12b2d5de24a24decd78de207e802d0bda899c28001c 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0         50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608;1  GYzEgquu6RNuiaZ7U8b51LQvKJQkepWhmh    111900000000
+	      1  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb         7694347
+	      2  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0
+	      3  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+	      4  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+	      5  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+	      6  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+	      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+	      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+	      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+	     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+
+		Replacement Transaction d5ffe8de9e417de3b5db67ae3276bc490e253bae33f2eaef1b934b933c14384b 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      45f34ee0efde08d7f9c29c5fe7f53c3e221d36c42099455aaf32839ae96c8a23;0  AbCNuEYdL6f4VumChQYT9W5MMSVs7pafdD    195100000000
+		      1  *      8939b60b40bae8ac2898966e35458560beabc693dbbe34c38269af269447f02c;0  GLw6SVfrVgtSMa9zCaDEvD3MDEDXR56Kkb        37931200
+		      2  *      84021ce9af95e481749ff3429a90ed863316cf9bcdc619cc09f9a89404d8144a;0
+		      3  *      3482a0a2791a04f9887a58a5f3631cdf7d412619c2fa24dd11d4d3760caa0669;0
+		      4  *      d55c48ada9de1315361844e7bd32ba578f05aea41ea1c60a7e3bccdeeb49be9b;0
+		      5  *      bf5c880f470f212e5e8a36335a1ee05e24e3c70d654bf6f6e248e3efc89471a5;0
+		      6         757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae;1
+		      7  *      b1c5a6a4448e5166d917b948cbadbe7d0f13e1dcd9d6aac7308a0dd27639b6b3;0
+		      8  *      410e09f629562cdd0f5e8d699f20040c5fd362c50b8a2277f93d02ffe16bcbc4;0
+		      9  *      576672edc028d66e4001c2c8cf5c308b35099f43ca42ba5a733d0789a2aeebdc;0
+		     10  *      c39fcc6d0e65add6f8ec9b866ec2d8bd1abe633a9d730bf40af182a7d9725cf1;0
+		     11         f150f89dd287bc3eddae7c123abb38873a323b0b0c0eb6957b4d3f2c677992fc;1
+
+	Original Transaction 50d2d947a0ff8ff199daa25bbb8a8b28ae6e0ef099d4713d161e462caa4b5608 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  GVeNG66p5BrQEm1LYnZzhQ4m7c6tNk16vp    327057206024
+	      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu     99405753255
+
+		Replacement Transaction 757863a448198c40e27c718a47159a51c4ba3ac698c4a3598a94df36fbbaa4ae 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      90495bae99dfd2702b96e29e49c4918a8d0323f8b00e51416454529fc2132679;1  AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc    243900000000
+		      1  *      3703783b0e28dcf71d05a9a66b6260d568fc053e35ddb4ade68f55fac8ed1ff4;1  GQgZ6ywGs2E1f1feGzPmooZmA6J19Jfktu    182562959281
+
+
+Reorg 18 at 2020-02-09T05:48:51 db ID: 91003
+Depth 8
+Length 9
+Est attacker chain duration 2:11:32
+Est attacker hashrate 1.43 MH/s
+Nicehash hashrate 1.17 MH/s
+Nicehash price 0.85 BTC/MH/s/Day
+Est Nicehash cost 0.11123441 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-09T03:37:10   2020-02-09T03:37:19      00000001b6876c9c9b1aacf05f8375a88da70f42c81958a51c15d2b7564de685  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu            0            2020-02-09T03:37:10  2020-02-09T03:37:19  00000001b6876c9c9b1aacf05f8375a88da70f42c81958a51c15d2b7564de685  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu            0
+        1  *    2020-02-09T04:09:20   2020-02-09T04:10:29      00000000bc5a7d7bd65811912cba69ef82cc770a652f209cc832f764cb0b093e  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           30.4642  *    2020-02-09T04:41:30  2020-02-09T05:48:51  000000000ceb87e67cc19f1cf1742854e6ec3785215d6e4e66415a91d999865e  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           30.4642
+        2       2020-02-09T04:32:29   2020-02-09T04:32:51      0000000259bd1c29080f8db3a04f50c0cf8b8a570e7c22d1d19f39bdb117871c  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           31.3977       2020-02-09T04:43:18  2020-02-09T05:48:51  000000016743338e066d0c01b5bedb5c38058456ec947168915a4bc00109a9f9  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.3263
+        3       2020-02-09T04:44:50   2020-02-09T04:45:22      000000002c527163dc2952f70cd2e386a6c0cccba12ac99590e120238db7a677  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.936        2020-02-09T04:51:35  2020-02-09T05:48:51  00000000de6af4b46c9f7caeac8f09b08aaf20e7820876ed9b0e82d0058772ec  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.8756
+        4       2020-02-09T04:54:32   2020-02-09T04:55:23      000000020ae2464a5e182bb789d954d31d959f2bc96b10fd51219b33dae38fa5  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.3238       2020-02-09T05:12:14  2020-02-09T05:48:51  0000000263a71d5fc3f6c99edee071c499deb379a6ff984334194daf0aef155a  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.2745
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        5       2020-02-09T04:55:22   2020-02-09T04:55:40      000000025564734f3a0f9a91bea04bd9d7482f9c0e2015d029f18cd7d3087c3a  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.6293       2020-02-09T05:23:46  2020-02-09T05:48:51  000000018df14b7c5376c64cdd5475d268d970b61ca9f5d6746316faa1222e44  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.5754
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        6       2020-02-09T05:01:40   2020-02-09T05:02:28      000000016da45101fd47aa7e37bd4f61a1009a54b19cf625494419ca623053c9  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.8896       2020-02-09T05:29:20  2020-02-09T05:48:51  000000004d9a090eddd8f20797b2b938d275df507d03a6b29ab0e6ade5934d6c  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.8228
+        7       2020-02-09T05:19:53   2020-02-09T05:20:05      0000000014c2286300abfbb4f970938b49b6a2877d41e49c3c97ea3b8789dd6d  GLuatJRozfXt1vwY9SGLiqxXaVeSBbSP2p           33.1131       2020-02-09T05:40:12  2020-02-09T05:48:51  000000035b1c356970fa7433d35c5037e4f740014e7bcd671adb3ff2985cdc29  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           33.037
+        8       2020-02-09T05:36:06   2020-02-09T05:36:47      00000002f910f538ee5e68ced57f111bbb887abca39216b4d45a899143d10250  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.3006       2020-02-09T05:45:51  2020-02-09T05:48:51  000000037bdcc4f116d078377676bcee0969e55823918831281847e75abd4062  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           33.2228
+        9                                                                                                                                                                                   2020-02-09T05:46:41  2020-02-09T05:48:51  00000000c2362d8781662d6683d49a39614a1e757c9abd6cbbabd11364ffa14f  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           33.3899
+
+	Double-spent Transactions
+	---
+
+	Original Transaction d33530c49d5459ad84f11b728f7350cfc56affc7b69473e421dc3092084ffbc3 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0         5ac6898005bebc1ca23b032ea55d2640a0364b045e6273654ada9edf81ca140d;0  GQWd1qjQVtVDpbtkecP55rR9NYvtQF8RLc    151993734979
+	      1  *      9485ad5a5b01a144c670f597486776881ab31d4163c1ae0d09b788f28288e716;0  AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc    242200000000
+
+		Replacement Transaction 2f27cb8f958b996f344a98d7bbeb45a4a77e6d41371e31e7e39309899f2ffd2e 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      b28391d05fe74c6504baa53962e34bc084c3f6286181cc35b2a4adf2ccb1d310;1  Ad57AyhjD2WcNM5vrPaon2inpLw7WbwaYN    395400000000
+		      1  *      9485ad5a5b01a144c670f597486776881ab31d4163c1ae0d09b788f28288e716;0  GQWd1qjQVtVDpbtkecP55rR9NYvtQF8RLc         6006472
+		      2         8caae042b8b3ce7fd4338296c7c809de3dfee249c4a9e6cc66265dfdcf42e924;1
+
+	Original Transaction 5ac6898005bebc1ca23b032ea55d2640a0364b045e6273654ada9edf81ca140d 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      b28391d05fe74c6504baa53962e34bc084c3f6286181cc35b2a4adf2ccb1d310;1  GVeVg7ebDRzbaLPqMe1j2ZCtVFJgobfEzC    179193835364
+	      1                                                                             AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc      1200000000
+
+		Replacement Transaction 2f27cb8f958b996f344a98d7bbeb45a4a77e6d41371e31e7e39309899f2ffd2e 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      b28391d05fe74c6504baa53962e34bc084c3f6286181cc35b2a4adf2ccb1d310;1  Ad57AyhjD2WcNM5vrPaon2inpLw7WbwaYN    395400000000
+		      1  *      9485ad5a5b01a144c670f597486776881ab31d4163c1ae0d09b788f28288e716;0  GQWd1qjQVtVDpbtkecP55rR9NYvtQF8RLc         6006472
+		      2         8caae042b8b3ce7fd4338296c7c809de3dfee249c4a9e6cc66265dfdcf42e924;1
+
+
+Reorg 19 at 2020-02-09T07:14:06 db ID: 91021
+Depth 16
+Length 18
+Est attacker chain duration 3:36:47
+Est attacker hashrate 1.69 MH/s
+Nicehash hashrate 1.17 MH/s
+Nicehash price 0.85 BTC/MH/s/Day
+Est Nicehash cost 0.21694654 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-09T03:37:10   2020-02-09T03:37:19      00000001b6876c9c9b1aacf05f8375a88da70f42c81958a51c15d2b7564de685  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu            0            2020-02-09T03:37:10  2020-02-09T03:37:19  00000001b6876c9c9b1aacf05f8375a88da70f42c81958a51c15d2b7564de685  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu            0
+        1  *    2020-02-09T04:41:30   2020-02-09T05:48:51      000000000ceb87e67cc19f1cf1742854e6ec3785215d6e4e66415a91d999865e  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           30.4642  *    2020-02-09T04:09:20  2020-02-09T04:10:29  00000000bc5a7d7bd65811912cba69ef82cc770a652f209cc832f764cb0b093e  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           30.4642
+        2       2020-02-09T04:43:18   2020-02-09T05:48:51      000000016743338e066d0c01b5bedb5c38058456ec947168915a4bc00109a9f9  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.3263       2020-02-09T04:32:29  2020-02-09T04:32:51  0000000259bd1c29080f8db3a04f50c0cf8b8a570e7c22d1d19f39bdb117871c  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           31.3977
+        3       2020-02-09T04:51:35   2020-02-09T05:48:51      00000000de6af4b46c9f7caeac8f09b08aaf20e7820876ed9b0e82d0058772ec  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.8756       2020-02-09T04:44:50  2020-02-09T04:45:22  000000002c527163dc2952f70cd2e386a6c0cccba12ac99590e120238db7a677  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           31.936
+        4       2020-02-09T05:12:14   2020-02-09T05:48:51      0000000263a71d5fc3f6c99edee071c499deb379a6ff984334194daf0aef155a  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.2745       2020-02-09T04:54:32  2020-02-09T04:55:23  000000020ae2464a5e182bb789d954d31d959f2bc96b10fd51219b33dae38fa5  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.3238
+                                                                                                                                                                                                                                                                                                        GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        5       2020-02-09T05:23:46   2020-02-09T05:48:51      000000018df14b7c5376c64cdd5475d268d970b61ca9f5d6746316faa1222e44  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.5754       2020-02-09T04:55:22  2020-02-09T04:55:40  000000025564734f3a0f9a91bea04bd9d7482f9c0e2015d029f18cd7d3087c3a  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.6293
+                                                                                                                                                                                                                                                                                                        GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        6       2020-02-09T05:29:20   2020-02-09T05:48:51      000000004d9a090eddd8f20797b2b938d275df507d03a6b29ab0e6ade5934d6c  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.8228       2020-02-09T05:01:40  2020-02-09T05:02:28  000000016da45101fd47aa7e37bd4f61a1009a54b19cf625494419ca623053c9  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           32.8896
+        7       2020-02-09T05:40:12   2020-02-09T05:48:51      000000035b1c356970fa7433d35c5037e4f740014e7bcd671adb3ff2985cdc29  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           33.037        2020-02-09T05:19:53  2020-02-09T05:20:05  0000000014c2286300abfbb4f970938b49b6a2877d41e49c3c97ea3b8789dd6d  GLuatJRozfXt1vwY9SGLiqxXaVeSBbSP2p           33.1131
+        8       2020-02-09T05:45:51   2020-02-09T05:48:51      000000037bdcc4f116d078377676bcee0969e55823918831281847e75abd4062  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           33.2228       2020-02-09T05:36:06  2020-02-09T05:36:47  00000002f910f538ee5e68ced57f111bbb887abca39216b4d45a899143d10250  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.3006
+        9       2020-02-09T05:46:41   2020-02-09T05:48:51      00000000c2362d8781662d6683d49a39614a1e757c9abd6cbbabd11364ffa14f  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           33.3899       2020-02-09T06:20:28  2020-02-09T07:14:06  0000000227e020991b004a01fe2dffb7fdee015dcd330c75292b1bb9bda0a2b2  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.4627
+       10       2020-02-09T05:48:27   2020-02-09T05:53:33      00000000d86b98b005fbcd4db28cc920e212d9fd32e56dfcc2bedc903697b1a9  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           33.5447       2020-02-09T06:32:42  2020-02-09T07:14:06  00000003205437328a17261d5b97f68a793fe275e3f1d3780b621fdee16e1cf5  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.5919
+       11       2020-02-09T05:55:23   2020-02-09T05:55:39      00000001e5a775d356ca60cd6fecd501c7efe8707f8e84605cb7d4fb727529e5  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           33.689        2020-02-09T06:42:17  2020-02-09T07:14:06  00000003dea4fb7c86ddd8400eea2f4d59756d4aff185c7f6894ba6ba545286d  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.7094
+       12       2020-02-09T05:56:33   2020-02-09T05:56:55      00000002798628bcce7c22ef1a50ddac1954290b35b6a0dc923d69fbd455bc47  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           33.8218       2020-02-09T06:57:05  2020-02-09T07:14:06  000000022bf320441d3b5ae25168890a3071718669c46acd05a4d188e9ce6a61  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.818
+       13       2020-02-09T05:57:49   2020-02-09T05:58:10      000000008ba568724524e546a096dd1eee95fffb036e8fe1a822bc49212bf336  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           33.9479       2020-02-09T07:00:24  2020-02-09T07:14:06  000000037d9b9fc960ba1fc31c5097e2565d235a2bef06df5b9a09c05b3adad8  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.9173
+       14       2020-02-09T06:04:10   2020-02-09T06:05:44      0000000057653fb22cdf7337a45eb422959509f9f832e667701f8d253423d2f8  GeNNVzHUpD1p9S5Wz9E9vW86Ars82cokPu           34.0683       2020-02-09T07:09:51  2020-02-09T07:14:06  00000001e02eb431d11cc719b82a543b3413dacfc0d94707afbcc97a05adb230  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.0121
+       15       2020-02-09T06:18:34   2020-02-09T06:18:53      00000001693ce7ae8b6bb0070d112ac4925d7f9b3817d85a6e2f6b7d2509c74f  GK18bp4UzC6wqYKKNLkaJ3hzQazTc3TWBw           34.1813       2020-02-09T07:11:18  2020-02-09T07:14:06  000000038f491c0ab7830e84ed8a4b45501ecc38628719feb4fccfc586a9ca07  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.1012
+       16       2020-02-09T06:50:54   2020-02-09T06:52:10      000000002bf738eef807946027887401de66aa6aa315811d5e6069c10268a6ae  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           34.284        2020-02-09T07:13:03  2020-02-09T07:14:06  00000000ab975f49feaa858a7aa8a8e57bc0d7c3409d331521a669893156ae5e  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.1875
+       17                                                                                                                                                                                   2020-02-09T07:13:19  2020-02-09T07:14:06  00000000577b850f0c03a498140815f87a32f728c1c1d00ba620b508e06166a6  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.2714
+       18                                                                                                                                                                                   2020-02-09T07:13:31  2020-02-09T07:14:06  00000001cd9067ded236a9ee7d12be1f1074a9dfcd23f8294f67003244e2ac51  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           34.3536
+
+	Double-spent Transactions
+	---
+
+	Original Transaction 2f27cb8f958b996f344a98d7bbeb45a4a77e6d41371e31e7e39309899f2ffd2e 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      b28391d05fe74c6504baa53962e34bc084c3f6286181cc35b2a4adf2ccb1d310;1  Ad57AyhjD2WcNM5vrPaon2inpLw7WbwaYN    395400000000
+	      1  *      9485ad5a5b01a144c670f597486776881ab31d4163c1ae0d09b788f28288e716;0  GQWd1qjQVtVDpbtkecP55rR9NYvtQF8RLc         6006472
+	      2         8caae042b8b3ce7fd4338296c7c809de3dfee249c4a9e6cc66265dfdcf42e924;1
+
+		Replacement Transaction d33530c49d5459ad84f11b728f7350cfc56affc7b69473e421dc3092084ffbc3 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0         5ac6898005bebc1ca23b032ea55d2640a0364b045e6273654ada9edf81ca140d;0  GQWd1qjQVtVDpbtkecP55rR9NYvtQF8RLc    151993734979
+		      1  *      9485ad5a5b01a144c670f597486776881ab31d4163c1ae0d09b788f28288e716;0  AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc    242200000000
+
+		Replacement Transaction 5ac6898005bebc1ca23b032ea55d2640a0364b045e6273654ada9edf81ca140d 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      b28391d05fe74c6504baa53962e34bc084c3f6286181cc35b2a4adf2ccb1d310;1  GVeVg7ebDRzbaLPqMe1j2ZCtVFJgobfEzC    179193835364
+		      1                                                                             AYP46aBYEEuBjgVeSg1xaCxM97wKeXsfvc      1200000000
+
+
+Reorg 20 at 2020-02-11T03:53:18 db ID: 91556
+Depth 4
+Length 5
+Est attacker chain duration 1:36:19
+Est attacker hashrate 1.05 MH/s
+Nicehash hashrate 2.71 MH/s
+Nicehash price 0.95 BTC/MH/s/Day
+Est Nicehash cost 0.06702485 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-11T02:16:53   2020-02-11T02:16:59      00000000503fd0bc9c0969d770e3a110b908687973619df27c07e43d017a18fa  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0            2020-02-11T02:16:53  2020-02-11T02:16:59  00000000503fd0bc9c0969d770e3a110b908687973619df27c07e43d017a18fa  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0
+        1  *    2020-02-11T02:26:59   2020-02-11T02:28:09      00000002718090966beeefea2ceebb70e5b1f75309b81ee93a62edf98c7292aa  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           30.4016  *    2020-02-11T03:18:24  2020-02-11T03:53:18  00000002b2e595403c035122ef437bed5e73d0b2154bdf5733bcb0f47ab9993e  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           30.4016
+        2       2020-02-11T02:51:59   2020-02-11T02:52:53      00000002957c85e025228f19a2e5bac6050ea39046cb6d5344166974e1578939  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           31.4011       2020-02-11T03:40:01  2020-02-11T03:53:18  0000000220110c3b15a373c9a16e6be6c69bf8a3c2726e90effcc7c4d7fe694c  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.2713
+        3       2020-02-11T03:03:53   2020-02-11T03:04:48      000000028abb0ce6b3711880aba3988fa39604302fc3c81321445586fcc8f2d2  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           31.9571       2020-02-11T03:41:30  2020-02-11T03:53:18  0000000071565567d92b4a01845019a2e0c64d2c66ceab5b84a31853bd0396ab  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.7918
+        4       2020-02-11T03:15:47   2020-02-11T03:15:52      000000003935c29a6d6cc7cec70286b8fe7e4d0b3fd28e3c4444350d8177f30a  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.3546       2020-02-11T03:42:58  2020-02-11T03:53:18  00000002c1ce3976101bbc2f1b5d582c1cceb40407d2d43f3e9f42c1905d4a26  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.1826
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        5                                                                                                                                                                                   2020-02-11T03:52:26  2020-02-11T03:53:18  000000038fee451023f91e34684ee1259d5d73c372c2d60e49fd7434687a32f0  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.4977
+
+	Double-spent Transactions
+	---
+
+	Original Transaction 816dea4ec8e7b7881571969bbcbcde2750a761736ef7ee62238e48fa4bd3a283 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      8beb08558006a0d2560e70f8b697d92873786af4d6d1b6f5880874eb748b7705;0  GRoynCkpJ4XCsAGtwj37StyxAwto9ghrdX         1564405
+	      1         67dba38fcc7e2ace48a1190a05ef59cf0492ac18c3a4902ea9815b9f0596cdfe;1  AbCNuEYdL6f4VumChQYT9W5MMSVs7pafdD    373100000000
+
+		Replacement Transaction 9b1cfe3b7a97662616a36d2d794359e04e05aa2faf68b0b9192bded4d85794aa 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      8beb08558006a0d2560e70f8b697d92873786af4d6d1b6f5880874eb748b7705;0  GY5aV17ppB1uCrX2vPGLBzr7nx47PX4kBC    122800000000
+		      1                                                                             GRoynCkpJ4XCsAGtwj37StyxAwto9ghrdX    250299899766
+
+
+Reorg 21 at 2020-02-11T05:17:48 db ID: 91564
+Depth 12
+Length 13
+Est attacker chain duration 3:00:49
+Est attacker hashrate 1.47 MH/s
+Nicehash hashrate 2.71 MH/s
+Nicehash price 0.95 BTC/MH/s/Day
+Est Nicehash cost 0.17668222 BTC
+
+Reorg Blocks
+---
+
+  Block #  D    Original Timestamp    Original Receipt Time    Original Block Hash                                               Original Miner(s)                     OrigWork Delta  D    Repl Timestamp       Repl Receipt Time    Repl Block Hash                                                   Repl Miner(s)                         ReplWork Delta
+---------  ---  --------------------  -----------------------  ----------------------------------------------------------------  ----------------------------------  ----------------  ---  -------------------  -------------------  ----------------------------------------------------------------  ----------------------------------  ----------------
+        0       2020-02-11T02:16:53   2020-02-11T02:16:59      00000000503fd0bc9c0969d770e3a110b908687973619df27c07e43d017a18fa  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0            2020-02-11T02:16:53  2020-02-11T02:16:59  00000000503fd0bc9c0969d770e3a110b908687973619df27c07e43d017a18fa  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j            0
+        1  *    2020-02-11T03:18:24   2020-02-11T03:53:18      00000002b2e595403c035122ef437bed5e73d0b2154bdf5733bcb0f47ab9993e  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           30.4016  *    2020-02-11T02:26:59  2020-02-11T02:28:09  00000002718090966beeefea2ceebb70e5b1f75309b81ee93a62edf98c7292aa  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           30.4016
+        2       2020-02-11T03:40:01   2020-02-11T03:53:18      0000000220110c3b15a373c9a16e6be6c69bf8a3c2726e90effcc7c4d7fe694c  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.2713       2020-02-11T02:51:59  2020-02-11T02:52:53  00000002957c85e025228f19a2e5bac6050ea39046cb6d5344166974e1578939  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           31.4011
+        3       2020-02-11T03:41:30   2020-02-11T03:53:18      0000000071565567d92b4a01845019a2e0c64d2c66ceab5b84a31853bd0396ab  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           31.7918       2020-02-11T03:03:53  2020-02-11T03:04:48  000000028abb0ce6b3711880aba3988fa39604302fc3c81321445586fcc8f2d2  GSraCk7RFQsg6yJAQ4XU5bcRRBHVnwX88j           31.9571
+        4       2020-02-11T03:42:58   2020-02-11T03:53:18      00000002c1ce3976101bbc2f1b5d582c1cceb40407d2d43f3e9f42c1905d4a26  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.1826       2020-02-11T03:15:47  2020-02-11T03:15:52  000000003935c29a6d6cc7cec70286b8fe7e4d0b3fd28e3c4444350d8177f30a  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.3546
+                                                                                                                                                                                                                                                                                                        GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        5       2020-02-11T03:52:26   2020-02-11T03:53:18      000000038fee451023f91e34684ee1259d5d73c372c2d60e49fd7434687a32f0  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.4977       2020-02-11T04:41:58  2020-02-11T05:17:48  0000000345cfeea6d433675d6c4d58b4b6032361885bb4a67ae15120abf1b30e  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.6637
+        6       2020-02-11T03:52:31   2020-02-11T03:53:26      00000001099c97b4562de5bc969bfe303815d8c31ad6b6ac92ac578ed0ab5d9b  GU6wq8RSz3LhWdgh5kMU9L1ytDaX3TNm93           32.7564       2020-02-11T04:43:26  2020-02-11T05:17:48  00000002e098bf09e4d097e5c2c6df6d16f1533693d0bdc45c80bd5c70617b99  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           32.8793
+        7       2020-02-11T03:59:50   2020-02-11T04:00:03      00000001289ab7cd9d2152ba717bec36a241c8bdfc93f86325cbaba7eaa0d9fb  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           32.9829       2020-02-11T05:02:22  2020-02-11T05:17:48  00000003a306d4849f173214ede33e616a5ef7fbc3dc97e3f03da45f865ad5b1  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.0715
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+        8       2020-02-11T04:18:06   2020-02-11T04:18:34      00000002029eda3c3e068feb7f35ee1dbd0f83f495441f452c7091ba88ee30f1  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.1804       2020-02-11T05:05:00  2020-02-11T05:17:48  000000000f94384890823e722fc55e54d8daf25a192c871074d3acfac206cfd5  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.236
+        9       2020-02-11T04:21:34   2020-02-11T04:21:41      000000004071a7b1a447ec3ce7096532fc998f51a18acc2087b56c312b801950  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.349        2020-02-11T05:05:41  2020-02-11T05:17:48  000000014a44db94c5c17954c872262e801fa3c1b0f1e4156caf24bef3e855c3  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.387
+       10       2020-02-11T04:22:36   2020-02-11T04:23:07      00000000154e56dd99baf4d811940be612df0dc31a9441618befb555e1a6ff5e  GP8Kd2o6xu9qqj1K1qFuM2Ls3FBZ2Sm5tV           33.5033       2020-02-11T05:11:50  2020-02-11T05:17:48  00000000b1dd4abf946f94e331dbbfaaeb02d4437be4193f80d266f0562b8007  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.5277
+                                                                                                                                 GezKoZ59mhmpMzjNBWNoYKvLhFLAdHuL6P
+       11       2020-02-11T04:24:37   2020-02-11T04:24:44      00000000fce0b7bc447d6b18be9cea99292016dfaada51790e717c4ce680096c  GQ6Btf3KmRz4VoMsEZi7WBdCYuY1XeXTrY           33.6474       2020-02-11T05:12:29  2020-02-11T05:17:48  00000002d7ffab25c643fa0a9e9ac5e721bd1328da649f7522c7df9042ff66a0  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.6575
+       12       2020-02-11T05:04:45   2020-02-11T05:06:24      0000000093516eb8748bd3dfd342f5d49e31ff70fcfd7504a66458662e8d9417  GJjz2Du9BoJQ3CPcoyVTHUJZSj62i1693U           33.7825       2020-02-11T05:16:47  2020-02-11T05:17:48  00000001fd019ca83128ed0c1f3222f5c9d7984f367c9352e781e0a8474598ce  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.7805
+       13                                                                                                                                                                                   2020-02-11T05:17:20  2020-02-11T05:17:48  00000002a575cb506ec438b004be54b842ed5a0020e2160b4ac661ffe66409db  GSsjeTZzaatwZS7J978DQzv322eAr79KLp           33.8961
+
+	Double-spent Transactions
+	---
+
+	Original Transaction 9b1cfe3b7a97662616a36d2d794359e04e05aa2faf68b0b9192bded4d85794aa 
+
+	  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+	-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+	      0  *      8beb08558006a0d2560e70f8b697d92873786af4d6d1b6f5880874eb748b7705;0  GY5aV17ppB1uCrX2vPGLBzr7nx47PX4kBC    122800000000
+	      1                                                                             GRoynCkpJ4XCsAGtwj37StyxAwto9ghrdX    250299899766
+
+		Replacement Transaction 816dea4ec8e7b7881571969bbcbcde2750a761736ef7ee62238e48fa4bd3a283 
+
+		  Index  DS?    Input Outpoint                                                      Output Address                        Output Value
+		-------  -----  ------------------------------------------------------------------  ----------------------------------  --------------
+		      0  *      8beb08558006a0d2560e70f8b697d92873786af4d6d1b6f5880874eb748b7705;0  GRoynCkpJ4XCsAGtwj37StyxAwto9ghrdX         1564405
+		      1         67dba38fcc7e2ace48a1190a05ef59cf0492ac18c3a4902ea9815b9f0596cdfe;1  AbCNuEYdL6f4VumChQYT9W5MMSVs7pafdD    373100000000
+
